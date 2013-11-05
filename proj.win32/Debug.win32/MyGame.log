@@ -1,0 +1,48 @@
+﻿빌드 시작: 2013-11-05 오후 1:21:45
+     1>2 노드의 "C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\MyGame.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug.win32\MyGame.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\cocos2dx" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\cocos2dx\include" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\cocos2dx\kazmath\include" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\cocos2dx\platform\win32" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\cocos2dx\platform\third_party\win32" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\external" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\external\chipmunk\include\chipmunk" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\CocosDenshion\include" /I"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\..\..\..\extensions" /I..\Classes /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc100.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\ContactListener.cpp "..\Classes\GB2ShapeCache-x.cpp" ..\Classes\GameLoadingScene.cpp ..\Classes\GameOverScene.cpp ..\Classes\MainMenuScene.cpp ..\Classes\TestGroundScene.cpp ..\Classes\TitleScene.cpp
+         TitleScene.cpp
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\titlescene.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\titlescene.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\testgroundscene.h(112): error C2864: 'TestGroundScene::sound' : 정적 상수인 정수 계열 데이터 멤버만 클래스 내부에서 초기화될 수 있습니다.
+         TestGroundScene.cpp
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\testgroundscene.h(112): error C2864: 'TestGroundScene::sound' : 정적 상수인 정수 계열 데이터 멤버만 클래스 내부에서 초기화될 수 있습니다.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\testgroundscene.cpp(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'b2Joint.h': No such file or directory
+         MainMenuScene.cpp
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\mainmenuscene.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\testgroundscene.h(112): error C2864: 'TestGroundScene::sound' : 정적 상수인 정수 계열 데이터 멤버만 클래스 내부에서 초기화될 수 있습니다.
+         GameOverScene.cpp
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\testgroundscene.h(112): error C2864: 'TestGroundScene::sound' : 정적 상수인 정수 계열 데이터 멤버만 클래스 내부에서 초기화될 수 있습니다.
+         GameLoadingScene.cpp
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\testgroundscene.h(112): error C2864: 'TestGroundScene::sound' : 정적 상수인 정수 계열 데이터 멤버만 클래스 내부에서 초기화될 수 있습니다.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\gameloadingscene.cpp(48): error C2440: '형식 캐스팅' : 'void (__thiscall GameLoadingScene::* )(void)'에서 'cocos2d::SEL_SCHEDULE'(으)로 변환할 수 없습니다.
+                 멤버에 대한 포인터에 서로 다른 표현이 있으므로 서로 캐스팅할 수 없습니다.
+         GB2ShapeCache-x.cpp
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\gb2shapecache-x.cpp(38): fatal error C1083: 포함 파일을 열 수 없습니다. 'Box2D.h': No such file or directory
+         ContactListener.cpp
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\contactlistener.cpp(59): warning C4554: '&' : 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\contactlistener.cpp(62): warning C4554: '&' : 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+     1>c:\users\administrator\desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\mygame\classes\contactlistener.cpp(76): warning C4554: '&' : 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+         코드를 생성하고 있습니다...
+     1>"C:\Users\Administrator\Desktop\cocos2d-x-2.2\cocos2d-x-2.2\projects\MyGame\proj.win32\MyGame.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:27.98

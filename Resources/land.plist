@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!-- created with http://www.physicseditor.de -->
+
+<plist version="1.0">
+	<dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>ptm_ratio</key>
+            <real>32</real>
+        </dict>
+        <key>bodies</key>
+		<dict>
+
+			<key>land</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.4938,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 243.000,43.000 }</string>	
+								<string>{ 185.000,39.000 }</string>	
+								<string>{ 241.000,-1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 39.000,44.000 }</string>	
+								<string>{ 21.000,21.000 }</string>	
+								<string>{ 241.000,-1.000 }</string>	
+								<string>{ 147.000,37.000 }</string>	
+								<string>{ 79.000,43.000 }</string>
+							</array>
+							<array>	
+								<string>{ -210.000,36.000 }</string>	
+								<string>{ -229.000,25.000 }</string>	
+								<string>{ -237.000,0.000 }</string>	
+								<string>{ -128.000,23.000 }</string>
+							</array>
+							<array>	
+								<string>{ -65.000,41.000 }</string>	
+								<string>{ -73.000,26.000 }</string>	
+								<string>{ -1.000,23.000 }</string>	
+								<string>{ -30.000,42.000 }</string>
+							</array>
+							<array>	
+								<string>{ -173.000,42.000 }</string>	
+								<string>{ -188.000,33.000 }</string>	
+								<string>{ -128.000,23.000 }</string>	
+								<string>{ -149.000,38.000 }</string>
+							</array>
+							<array>	
+								<string>{ 185.000,39.000 }</string>	
+								<string>{ 147.000,37.000 }</string>	
+								<string>{ 241.000,-1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 111.000,49.000 }</string>	
+								<string>{ 79.000,43.000 }</string>	
+								<string>{ 147.000,37.000 }</string>
+							</array>
+							<array>	
+								<string>{ 241.000,-1.000 }</string>	
+								<string>{ -1.000,23.000 }</string>	
+								<string>{ -73.000,26.000 }</string>	
+								<string>{ -128.000,23.000 }</string>	
+								<string>{ -237.000,0.000 }</string>
+							</array>
+							<array>	
+								<string>{ -237.000,40.000 }</string>	
+								<string>{ -237.000,0.000 }</string>	
+								<string>{ -235.000,32.000 }</string>
+							</array>
+							<array>	
+								<string>{ -235.000,32.000 }</string>	
+								<string>{ -237.000,0.000 }</string>	
+								<string>{ -229.000,25.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>
+

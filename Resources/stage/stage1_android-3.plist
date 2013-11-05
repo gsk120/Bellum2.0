@@ -1,0 +1,4151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!-- created with http://www.physicseditor.de -->
+
+<plist version="1.0">
+	<dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>ptm_ratio</key>
+            <real>32</real>
+        </dict>
+        <key>bodies</key>
+		<dict>
+
+			<key>stage1_23</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 0.000,249.500 }</string>	
+								<string>{ -0.500,249.000 }</string>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 42.000,248.500 }</string>	
+								<string>{ 27.000,249.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1273.000,248.500 }</string>	
+								<string>{ 1272.000,247.500 }</string>	
+								<string>{ 1279.500,124.000 }</string>	
+								<string>{ 1279.500,248.000 }</string>	
+								<string>{ 1279.000,248.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1260.000,247.500 }</string>	
+								<string>{ 1259.000,246.500 }</string>	
+								<string>{ 1279.500,124.000 }</string>	
+								<string>{ 1272.000,247.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 312.000,0.500 }</string>	
+								<string>{ -0.500,249.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 41.000,249.500 }</string>	
+								<string>{ 27.000,249.500 }</string>	
+								<string>{ 42.000,248.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1259.000,246.500 }</string>	
+								<string>{ 1243.000,246.500 }</string>	
+								<string>{ 1242.000,245.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,124.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1224.000,245.500 }</string>	
+								<string>{ 1223.000,244.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1242.000,245.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1197.000,244.500 }</string>	
+								<string>{ 1196.000,243.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1223.000,244.500 }</string>
+							</array>
+							<array>	
+								<string>{ 312.000,0.500 }</string>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ -0.500,249.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1038.000,244.500 }</string>	
+								<string>{ 991.000,244.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 990.000,245.500 }</string>	
+								<string>{ 941.000,245.500 }</string>	
+								<string>{ 991.000,244.500 }</string>
+							</array>
+							<array>	
+								<string>{ 158.000,248.500 }</string>	
+								<string>{ 42.000,248.500 }</string>	
+								<string>{ 159.000,247.500 }</string>
+							</array>
+							<array>	
+								<string>{ 42.000,248.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 159.000,247.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1196.000,243.500 }</string>	
+								<string>{ 1039.000,243.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 991.000,244.500 }</string>	
+								<string>{ 417.000,246.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 416.000,247.500 }</string>	
+								<string>{ 159.000,247.500 }</string>	
+								<string>{ 417.000,246.500 }</string>
+							</array>
+							<array>	
+								<string>{ 159.000,247.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 417.000,246.500 }</string>
+							</array>
+							<array>	
+								<string>{ 940.000,246.500 }</string>	
+								<string>{ 417.000,246.500 }</string>	
+								<string>{ 941.000,245.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_24</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 1218.000,307.500 }</string>	
+								<string>{ 1217.000,306.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1279.500,36.000 }</string>	
+								<string>{ 1220.000,307.500 }</string>
+							</array>
+							<array>	
+								<string>{ 114.000,262.500 }</string>	
+								<string>{ 113.000,261.500 }</string>	
+								<string>{ 119.000,262.500 }</string>
+							</array>
+							<array>	
+								<string>{ 127.000,264.500 }</string>	
+								<string>{ 126.000,263.500 }</string>	
+								<string>{ 132.000,264.500 }</string>
+							</array>
+							<array>	
+								<string>{ 140.000,266.500 }</string>	
+								<string>{ 139.000,265.500 }</string>	
+								<string>{ 145.000,266.500 }</string>
+							</array>
+							<array>	
+								<string>{ 153.000,268.500 }</string>	
+								<string>{ 152.000,267.500 }</string>	
+								<string>{ 158.000,268.500 }</string>
+							</array>
+							<array>	
+								<string>{ 159.000,269.500 }</string>	
+								<string>{ 158.000,268.500 }</string>	
+								<string>{ 164.000,269.500 }</string>
+							</array>
+							<array>	
+								<string>{ 172.000,271.500 }</string>	
+								<string>{ 171.000,270.500 }</string>	
+								<string>{ 177.000,271.500 }</string>
+							</array>
+							<array>	
+								<string>{ 178.000,272.500 }</string>	
+								<string>{ 177.000,271.500 }</string>	
+								<string>{ 183.000,272.500 }</string>
+							</array>
+							<array>	
+								<string>{ 184.000,273.500 }</string>	
+								<string>{ 183.000,272.500 }</string>	
+								<string>{ 189.000,273.500 }</string>
+							</array>
+							<array>	
+								<string>{ 190.000,274.500 }</string>	
+								<string>{ 189.000,273.500 }</string>	
+								<string>{ 195.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 196.000,275.500 }</string>	
+								<string>{ 195.000,274.500 }</string>	
+								<string>{ 201.000,275.500 }</string>
+							</array>
+							<array>	
+								<string>{ 202.000,276.500 }</string>	
+								<string>{ 201.000,275.500 }</string>	
+								<string>{ 207.000,276.500 }</string>
+							</array>
+							<array>	
+								<string>{ 215.000,278.500 }</string>	
+								<string>{ 214.000,277.500 }</string>	
+								<string>{ 220.000,278.500 }</string>
+							</array>
+							<array>	
+								<string>{ 221.000,279.500 }</string>	
+								<string>{ 220.000,278.500 }</string>	
+								<string>{ 226.000,279.500 }</string>
+							</array>
+							<array>	
+								<string>{ 227.000,280.500 }</string>	
+								<string>{ 226.000,279.500 }</string>	
+								<string>{ 232.000,280.500 }</string>
+							</array>
+							<array>	
+								<string>{ 233.000,281.500 }</string>	
+								<string>{ 232.000,280.500 }</string>	
+								<string>{ 238.000,281.500 }</string>
+							</array>
+							<array>	
+								<string>{ 246.000,283.500 }</string>	
+								<string>{ 245.000,282.500 }</string>	
+								<string>{ 251.000,283.500 }</string>
+							</array>
+							<array>	
+								<string>{ 252.000,284.500 }</string>	
+								<string>{ 251.000,283.500 }</string>	
+								<string>{ 257.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 265.000,286.500 }</string>	
+								<string>{ 264.000,285.500 }</string>	
+								<string>{ 270.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 285.000,289.500 }</string>	
+								<string>{ 284.000,288.500 }</string>	
+								<string>{ 290.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 78.000,257.500 }</string>	
+								<string>{ 77.000,256.500 }</string>	
+								<string>{ 84.000,257.500 }</string>
+							</array>
+							<array>	
+								<string>{ 93.000,259.500 }</string>	
+								<string>{ 92.000,258.500 }</string>	
+								<string>{ 99.000,259.500 }</string>
+							</array>
+							<array>	
+								<string>{ 100.000,260.500 }</string>	
+								<string>{ 99.000,259.500 }</string>	
+								<string>{ 106.000,260.500 }</string>
+							</array>
+							<array>	
+								<string>{ 107.000,261.500 }</string>	
+								<string>{ 106.000,260.500 }</string>	
+								<string>{ 113.000,261.500 }</string>
+							</array>
+							<array>	
+								<string>{ 120.000,263.500 }</string>	
+								<string>{ 119.000,262.500 }</string>	
+								<string>{ 126.000,263.500 }</string>
+							</array>
+							<array>	
+								<string>{ 133.000,265.500 }</string>	
+								<string>{ 132.000,264.500 }</string>	
+								<string>{ 139.000,265.500 }</string>
+							</array>
+							<array>	
+								<string>{ 146.000,267.500 }</string>	
+								<string>{ 145.000,266.500 }</string>	
+								<string>{ 152.000,267.500 }</string>
+							</array>
+							<array>	
+								<string>{ 165.000,270.500 }</string>	
+								<string>{ 164.000,269.500 }</string>	
+								<string>{ 171.000,270.500 }</string>
+							</array>
+							<array>	
+								<string>{ 208.000,277.500 }</string>	
+								<string>{ 207.000,276.500 }</string>	
+								<string>{ 214.000,277.500 }</string>
+							</array>
+							<array>	
+								<string>{ 239.000,282.500 }</string>	
+								<string>{ 238.000,281.500 }</string>	
+								<string>{ 245.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 258.000,285.500 }</string>	
+								<string>{ 257.000,284.500 }</string>	
+								<string>{ 264.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 271.000,287.500 }</string>	
+								<string>{ 270.000,286.500 }</string>	
+								<string>{ 277.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 278.000,288.500 }</string>	
+								<string>{ 277.000,287.500 }</string>	
+								<string>{ 284.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 291.000,290.500 }</string>	
+								<string>{ 290.000,289.500 }</string>	
+								<string>{ 297.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 298.000,291.500 }</string>	
+								<string>{ 297.000,290.500 }</string>	
+								<string>{ 304.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 305.000,292.500 }</string>	
+								<string>{ 304.000,291.500 }</string>	
+								<string>{ 311.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 320.000,294.500 }</string>	
+								<string>{ 319.000,293.500 }</string>	
+								<string>{ 326.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 54.000,254.500 }</string>	
+								<string>{ 53.000,253.500 }</string>	
+								<string>{ 61.000,254.500 }</string>
+							</array>
+							<array>	
+								<string>{ 62.000,255.500 }</string>	
+								<string>{ 61.000,254.500 }</string>	
+								<string>{ 69.000,255.500 }</string>
+							</array>
+							<array>	
+								<string>{ 70.000,256.500 }</string>	
+								<string>{ 69.000,255.500 }</string>	
+								<string>{ 77.000,256.500 }</string>
+							</array>
+							<array>	
+								<string>{ 85.000,258.500 }</string>	
+								<string>{ 84.000,257.500 }</string>	
+								<string>{ 92.000,258.500 }</string>
+							</array>
+							<array>	
+								<string>{ 312.000,293.500 }</string>	
+								<string>{ 311.000,292.500 }</string>	
+								<string>{ 319.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 327.000,295.500 }</string>	
+								<string>{ 326.000,294.500 }</string>	
+								<string>{ 334.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 335.000,296.500 }</string>	
+								<string>{ 334.000,295.500 }</string>	
+								<string>{ 342.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 343.000,297.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 350.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 27.000,251.500 }</string>	
+								<string>{ 26.000,250.500 }</string>	
+								<string>{ 35.000,251.500 }</string>
+							</array>
+							<array>	
+								<string>{ 36.000,252.500 }</string>	
+								<string>{ 35.000,251.500 }</string>	
+								<string>{ 44.000,252.500 }</string>
+							</array>
+							<array>	
+								<string>{ 45.000,253.500 }</string>	
+								<string>{ 44.000,252.500 }</string>	
+								<string>{ 53.000,253.500 }</string>
+							</array>
+							<array>	
+								<string>{ 351.000,298.500 }</string>	
+								<string>{ 350.000,297.500 }</string>	
+								<string>{ 359.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 360.000,299.500 }</string>	
+								<string>{ 359.000,298.500 }</string>	
+								<string>{ 368.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 17.000,250.500 }</string>	
+								<string>{ 16.000,249.500 }</string>	
+								<string>{ 26.000,250.500 }</string>
+							</array>
+							<array>	
+								<string>{ 369.000,300.500 }</string>	
+								<string>{ 368.000,299.500 }</string>	
+								<string>{ 378.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 379.000,301.500 }</string>	
+								<string>{ 378.000,300.500 }</string>	
+								<string>{ 388.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1088.000,297.500 }</string>	
+								<string>{ 1087.000,296.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1097.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1109.000,299.500 }</string>	
+								<string>{ 1108.000,298.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1118.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,248.500 }</string>	
+								<string>{ -0.500,248.000 }</string>	
+								<string>{ 5.000,248.500 }</string>
+							</array>
+							<array>	
+								<string>{ 6.000,249.500 }</string>	
+								<string>{ 5.000,248.500 }</string>	
+								<string>{ 16.000,249.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1055.000,294.500 }</string>	
+								<string>{ 1054.000,293.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1065.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1066.000,295.500 }</string>	
+								<string>{ 1065.000,294.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1076.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1077.000,296.500 }</string>	
+								<string>{ 1076.000,295.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1087.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1098.000,298.500 }</string>	
+								<string>{ 1097.000,297.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1108.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1119.000,300.500 }</string>	
+								<string>{ 1118.000,299.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1129.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1130.000,301.500 }</string>	
+								<string>{ 1129.000,300.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1140.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1031.000,292.500 }</string>	
+								<string>{ 1030.000,291.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1042.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1043.000,293.500 }</string>	
+								<string>{ 1042.000,292.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1054.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1141.000,302.500 }</string>	
+								<string>{ 1140.000,301.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1152.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1153.000,303.500 }</string>	
+								<string>{ 1152.000,302.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1164.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.000,306.500 }</string>	
+								<string>{ 1273.000,306.500 }</string>	
+								<string>{ 1279.500,152.000 }</string>	
+								<string>{ 1279.500,306.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 758.000,291.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ -0.500,248.000 }</string>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 151.000,0.500 }</string>	
+								<string>{ -0.500,248.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 389.000,302.500 }</string>	
+								<string>{ 388.000,301.500 }</string>	
+								<string>{ 401.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 687.000,297.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 226.000,279.500 }</string>	
+								<string>{ 688.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 728.000,294.500 }</string>	
+								<string>{ 226.000,279.500 }</string>	
+								<string>{ 729.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1018.000,291.500 }</string>	
+								<string>{ 1017.000,290.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1030.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 402.000,303.500 }</string>	
+								<string>{ 401.000,302.500 }</string>	
+								<string>{ 415.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 674.000,298.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 675.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 701.000,296.500 }</string>	
+								<string>{ 688.000,296.500 }</string>	
+								<string>{ 226.000,279.500 }</string>	
+								<string>{ 702.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 715.000,295.500 }</string>	
+								<string>{ 226.000,279.500 }</string>	
+								<string>{ 716.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 742.000,293.500 }</string>	
+								<string>{ 226.000,279.500 }</string>	
+								<string>{ 214.000,277.500 }</string>	
+								<string>{ 743.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1004.000,290.500 }</string>	
+								<string>{ 1003.000,289.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1017.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1165.000,304.500 }</string>	
+								<string>{ 1164.000,303.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1178.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 630.000,301.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 631.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 645.000,300.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 646.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 660.000,299.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 661.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 757.000,292.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ 758.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 772.000,291.500 }</string>	
+								<string>{ 758.000,291.500 }</string>	
+								<string>{ 773.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 788.000,290.500 }</string>	
+								<string>{ 773.000,290.500 }</string>	
+								<string>{ 789.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 988.000,289.500 }</string>	
+								<string>{ 987.000,288.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1003.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1179.000,305.500 }</string>	
+								<string>{ 1178.000,304.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1194.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 615.000,302.500 }</string>	
+								<string>{ 359.000,298.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 616.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 805.000,289.500 }</string>	
+								<string>{ 789.000,289.500 }</string>	
+								<string>{ 806.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 416.000,304.500 }</string>	
+								<string>{ 415.000,303.500 }</string>	
+								<string>{ 579.000,303.500 }</string>	
+								<string>{ 578.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 970.000,288.500 }</string>	
+								<string>{ 969.000,287.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 987.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 151.000,0.500 }</string>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ -0.500,248.000 }</string>
+							</array>
+							<array>	
+								<string>{ 598.000,303.500 }</string>	
+								<string>{ 415.000,303.500 }</string>	
+								<string>{ 359.000,298.500 }</string>	
+								<string>{ 599.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 825.000,288.500 }</string>	
+								<string>{ 806.000,288.500 }</string>	
+								<string>{ 826.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 948.000,287.500 }</string>	
+								<string>{ 947.000,286.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 969.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 848.000,287.500 }</string>	
+								<string>{ 826.000,287.500 }</string>	
+								<string>{ 849.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1195.000,306.500 }</string>	
+								<string>{ 1194.000,305.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>	
+								<string>{ 1217.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 434.000,305.500 }</string>	
+								<string>{ 433.000,304.500 }</string>	
+								<string>{ 556.000,304.500 }</string>	
+								<string>{ 555.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1272.000,307.500 }</string>	
+								<string>{ 1220.000,307.500 }</string>	
+								<string>{ 1279.500,36.000 }</string>	
+								<string>{ 1279.500,152.000 }</string>	
+								<string>{ 1273.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 464.000,306.500 }</string>	
+								<string>{ 463.000,305.500 }</string>	
+								<string>{ 522.000,305.500 }</string>	
+								<string>{ 521.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 113.000,261.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ 126.000,263.500 }</string>
+							</array>
+							<array>	
+								<string>{ 126.000,263.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ 139.000,265.500 }</string>
+							</array>
+							<array>	
+								<string>{ 139.000,265.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ 152.000,267.500 }</string>
+							</array>
+							<array>	
+								<string>{ 152.000,267.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ 171.000,270.500 }</string>
+							</array>
+							<array>	
+								<string>{ 177.000,271.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ 214.000,277.500 }</string>
+							</array>
+							<array>	
+								<string>{ 238.000,281.500 }</string>	
+								<string>{ 232.000,280.500 }</string>	
+								<string>{ 245.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 251.000,283.500 }</string>	
+								<string>{ 245.000,282.500 }</string>	
+								<string>{ 264.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 264.000,285.500 }</string>	
+								<string>{ 284.000,288.500 }</string>	
+								<string>{ 277.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 284.000,288.500 }</string>	
+								<string>{ 319.000,293.500 }</string>	
+								<string>{ 297.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 947.000,286.500 }</string>	
+								<string>{ 849.000,286.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>
+							</array>
+							<array>	
+								<string>{ 849.000,286.500 }</string>	
+								<string>{ 826.000,287.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>
+							</array>
+							<array>	
+								<string>{ 826.000,287.500 }</string>	
+								<string>{ 806.000,288.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>
+							</array>
+							<array>	
+								<string>{ 806.000,288.500 }</string>	
+								<string>{ 789.000,289.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>
+							</array>
+							<array>	
+								<string>{ 789.000,289.500 }</string>	
+								<string>{ 773.000,290.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>
+							</array>
+							<array>	
+								<string>{ 773.000,290.500 }</string>	
+								<string>{ 758.000,291.500 }</string>	
+								<string>{ 1279.500,7.000 }</string>
+							</array>
+							<array>	
+								<string>{ 378.000,300.500 }</string>	
+								<string>{ 415.000,303.500 }</string>	
+								<string>{ 401.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 77.000,256.500 }</string>	
+								<string>{ 743.000,292.500 }</string>	
+								<string>{ 92.000,258.500 }</string>
+							</array>
+							<array>	
+								<string>{ 319.000,293.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 334.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 350.000,297.500 }</string>	
+								<string>{ 342.000,296.500 }</string>	
+								<string>{ 359.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 245.000,282.500 }</string>	
+								<string>{ 319.000,293.500 }</string>	
+								<string>{ 284.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 177.000,271.500 }</string>	
+								<string>{ 171.000,270.500 }</string>	
+								<string>{ 743.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 113.000,261.500 }</string>	
+								<string>{ 92.000,258.500 }</string>	
+								<string>{ 743.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 77.000,256.500 }</string>	
+								<string>{ 53.000,253.500 }</string>	
+								<string>{ 743.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 53.000,253.500 }</string>	
+								<string>{ 26.000,250.500 }</string>	
+								<string>{ 743.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 26.000,250.500 }</string>	
+								<string>{ 16.000,249.500 }</string>	
+								<string>{ 743.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.000,249.500 }</string>	
+								<string>{ 5.000,248.500 }</string>	
+								<string>{ 743.000,292.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_25</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 376.000,331.500 }</string>	
+								<string>{ 375.500,331.000 }</string>	
+								<string>{ 375.500,313.000 }</string>	
+								<string>{ 512.500,313.000 }</string>	
+								<string>{ 512.500,331.000 }</string>	
+								<string>{ 512.000,331.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ -0.500,112.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ -0.500,312.000 }</string>	
+								<string>{ -0.500,112.000 }</string>
+							</array>
+							<array>	
+								<string>{ 889.500,324.000 }</string>	
+								<string>{ 889.500,313.000 }</string>	
+								<string>{ 920.500,313.000 }</string>	
+								<string>{ 920.500,324.000 }</string>	
+								<string>{ 920.000,324.500 }</string>	
+								<string>{ 890.000,324.500 }</string>
+							</array>
+							<array>	
+								<string>{ 889.500,313.000 }</string>	
+								<string>{ 889.000,312.500 }</string>	
+								<string>{ 921.000,312.500 }</string>	
+								<string>{ 920.500,313.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,312.000 }</string>	
+								<string>{ -0.500,312.000 }</string>	
+								<string>{ 1279.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,312.500 }</string>	
+								<string>{ -0.500,312.000 }</string>	
+								<string>{ 375.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 512.500,313.000 }</string>	
+								<string>{ 375.500,313.000 }</string>	
+								<string>{ 375.000,312.500 }</string>	
+								<string>{ 513.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.000,312.500 }</string>	
+								<string>{ 375.000,312.500 }</string>	
+								<string>{ 1279.500,312.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_26</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 696.500,327.000 }</string>	
+								<string>{ 696.500,326.000 }</string>	
+								<string>{ 702.000,327.500 }</string>	
+								<string>{ 697.000,327.500 }</string>
+							</array>
+							<array>	
+								<string>{ 712.000,330.500 }</string>	
+								<string>{ 694.500,313.000 }</string>	
+								<string>{ 714.000,330.500 }</string>
+							</array>
+							<array>	
+								<string>{ 748.000,363.500 }</string>	
+								<string>{ 747.500,363.000 }</string>	
+								<string>{ 747.500,332.000 }</string>	
+								<string>{ 749.000,363.500 }</string>
+							</array>
+							<array>	
+								<string>{ 750.000,364.500 }</string>	
+								<string>{ 749.000,363.500 }</string>	
+								<string>{ 747.500,332.000 }</string>	
+								<string>{ 751.000,364.500 }</string>
+							</array>
+							<array>	
+								<string>{ 752.000,365.500 }</string>	
+								<string>{ 751.000,364.500 }</string>	
+								<string>{ 753.000,365.500 }</string>
+							</array>
+							<array>	
+								<string>{ 754.000,366.500 }</string>	
+								<string>{ 753.000,365.500 }</string>	
+								<string>{ 756.000,366.500 }</string>
+							</array>
+							<array>	
+								<string>{ 757.000,367.500 }</string>	
+								<string>{ 756.000,366.500 }</string>	
+								<string>{ 758.000,367.500 }</string>
+							</array>
+							<array>	
+								<string>{ 779.000,371.500 }</string>	
+								<string>{ 778.000,370.500 }</string>	
+								<string>{ 781.000,371.500 }</string>
+							</array>
+							<array>	
+								<string>{ 801.000,398.500 }</string>	
+								<string>{ 800.500,398.000 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 802.000,398.500 }</string>
+							</array>
+							<array>	
+								<string>{ 803.000,399.500 }</string>	
+								<string>{ 802.000,398.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 804.000,399.500 }</string>
+							</array>
+							<array>	
+								<string>{ 805.000,400.500 }</string>	
+								<string>{ 804.000,399.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 807.000,400.500 }</string>
+							</array>
+							<array>	
+								<string>{ 808.000,401.500 }</string>	
+								<string>{ 807.000,400.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 810.000,401.500 }</string>
+							</array>
+							<array>	
+								<string>{ 811.000,402.500 }</string>	
+								<string>{ 810.000,401.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 813.000,402.500 }</string>
+							</array>
+							<array>	
+								<string>{ 826.000,406.500 }</string>	
+								<string>{ 825.000,405.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 828.000,406.500 }</string>
+							</array>
+							<array>	
+								<string>{ 829.000,407.500 }</string>	
+								<string>{ 828.000,406.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 831.000,407.500 }</string>
+							</array>
+							<array>	
+								<string>{ 832.000,408.500 }</string>	
+								<string>{ 831.000,407.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 833.000,408.500 }</string>
+							</array>
+							<array>	
+								<string>{ 834.000,409.500 }</string>	
+								<string>{ 833.000,408.500 }</string>	
+								<string>{ 835.000,409.500 }</string>
+							</array>
+							<array>	
+								<string>{ 836.000,410.500 }</string>	
+								<string>{ 835.000,409.500 }</string>	
+								<string>{ 837.000,410.500 }</string>
+							</array>
+							<array>	
+								<string>{ 839.000,412.500 }</string>	
+								<string>{ 837.000,410.500 }</string>	
+								<string>{ 841.000,412.500 }</string>
+							</array>
+							<array>	
+								<string>{ 854.000,438.500 }</string>	
+								<string>{ 853.500,438.000 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 855.000,438.500 }</string>
+							</array>
+							<array>	
+								<string>{ 870.000,442.500 }</string>	
+								<string>{ 869.000,441.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 872.000,442.500 }</string>
+							</array>
+							<array>	
+								<string>{ 906.000,445.500 }</string>	
+								<string>{ 889.000,445.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 907.000,444.500 }</string>
+							</array>
+							<array>	
+								<string>{ 908.000,444.500 }</string>	
+								<string>{ 907.000,444.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 853.000,414.500 }</string>	
+								<string>{ 908.500,313.000 }</string>	
+								<string>{ 908.500,444.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1204.000,544.500 }</string>	
+								<string>{ 1203.500,544.000 }</string>	
+								<string>{ 1203.500,313.000 }</string>	
+								<string>{ 1279.500,272.000 }</string>	
+								<string>{ 1279.500,544.000 }</string>	
+								<string>{ 1279.000,544.500 }</string>
+							</array>
+							<array>	
+								<string>{ 708.000,329.500 }</string>	
+								<string>{ 707.000,328.500 }</string>	
+								<string>{ 694.500,313.000 }</string>	
+								<string>{ 711.000,329.500 }</string>
+							</array>
+							<array>	
+								<string>{ 814.000,403.500 }</string>	
+								<string>{ 813.000,402.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 817.000,403.500 }</string>
+							</array>
+							<array>	
+								<string>{ 818.000,404.500 }</string>	
+								<string>{ 817.000,403.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 821.000,404.500 }</string>
+							</array>
+							<array>	
+								<string>{ 822.000,405.500 }</string>	
+								<string>{ 821.000,404.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 825.000,405.500 }</string>
+							</array>
+							<array>	
+								<string>{ 842.000,413.500 }</string>	
+								<string>{ 841.000,412.500 }</string>	
+								<string>{ 845.000,413.500 }</string>
+							</array>
+							<array>	
+								<string>{ 866.000,441.500 }</string>	
+								<string>{ 865.000,440.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 869.000,441.500 }</string>
+							</array>
+							<array>	
+								<string>{ 873.000,443.500 }</string>	
+								<string>{ 872.000,442.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 876.000,443.500 }</string>
+							</array>
+							<array>	
+								<string>{ 703.000,328.500 }</string>	
+								<string>{ 702.000,327.500 }</string>	
+								<string>{ 694.500,313.000 }</string>	
+								<string>{ 707.000,328.500 }</string>
+							</array>
+							<array>	
+								<string>{ 759.000,368.500 }</string>	
+								<string>{ 758.000,367.500 }</string>	
+								<string>{ 763.000,368.500 }</string>
+							</array>
+							<array>	
+								<string>{ 856.000,439.500 }</string>	
+								<string>{ 855.000,438.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 860.000,439.500 }</string>
+							</array>
+							<array>	
+								<string>{ 861.000,440.500 }</string>	
+								<string>{ 860.000,439.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 865.000,440.500 }</string>
+							</array>
+							<array>	
+								<string>{ 877.000,444.500 }</string>	
+								<string>{ 876.000,443.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 881.000,444.500 }</string>
+							</array>
+							<array>	
+								<string>{ 696.500,326.000 }</string>	
+								<string>{ 694.500,324.000 }</string>	
+								<string>{ 694.500,313.000 }</string>	
+								<string>{ 702.000,327.500 }</string>
+							</array>
+							<array>	
+								<string>{ 773.000,370.500 }</string>	
+								<string>{ 772.000,369.500 }</string>	
+								<string>{ 747.500,332.000 }</string>	
+								<string>{ 778.000,370.500 }</string>
+							</array>
+							<array>	
+								<string>{ 846.000,414.500 }</string>	
+								<string>{ 845.000,413.500 }</string>	
+								<string>{ 853.000,414.500 }</string>
+							</array>
+							<array>	
+								<string>{ 882.000,445.500 }</string>	
+								<string>{ 881.000,444.500 }</string>	
+								<string>{ 853.500,415.000 }</string>	
+								<string>{ 889.000,445.500 }</string>
+							</array>
+							<array>	
+								<string>{ 764.000,369.500 }</string>	
+								<string>{ 763.000,368.500 }</string>	
+								<string>{ 772.000,369.500 }</string>
+							</array>
+							<array>	
+								<string>{ 841.000,412.500 }</string>	
+								<string>{ 833.000,408.500 }</string>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 908.500,313.000 }</string>	
+								<string>{ 853.000,414.500 }</string>	
+								<string>{ 845.000,413.500 }</string>
+							</array>
+							<array>	
+								<string>{ 758.000,367.500 }</string>	
+								<string>{ 756.000,366.500 }</string>	
+								<string>{ 772.000,369.500 }</string>	
+								<string>{ 763.000,368.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ -0.500,112.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ -0.500,312.000 }</string>	
+								<string>{ -0.500,112.000 }</string>
+							</array>
+							<array>	
+								<string>{ 890.000,446.500 }</string>	
+								<string>{ 889.000,445.500 }</string>	
+								<string>{ 904.000,445.500 }</string>	
+								<string>{ 903.000,446.500 }</string>
+							</array>
+							<array>	
+								<string>{ 753.000,365.500 }</string>	
+								<string>{ 751.000,364.500 }</string>	
+								<string>{ 747.500,332.000 }</string>	
+								<string>{ 772.000,369.500 }</string>	
+								<string>{ 756.000,366.500 }</string>
+							</array>
+							<array>	
+								<string>{ 782.000,372.500 }</string>	
+								<string>{ 781.000,371.500 }</string>	
+								<string>{ 800.000,372.500 }</string>
+							</array>
+							<array>	
+								<string>{ 781.000,371.500 }</string>	
+								<string>{ 778.000,370.500 }</string>	
+								<string>{ 747.500,332.000 }</string>	
+								<string>{ 908.500,313.000 }</string>	
+								<string>{ 800.000,372.500 }</string>
+							</array>
+							<array>	
+								<string>{ 715.000,331.500 }</string>	
+								<string>{ 714.000,330.500 }</string>	
+								<string>{ 747.000,331.500 }</string>
+							</array>
+							<array>	
+								<string>{ 714.000,330.500 }</string>	
+								<string>{ 694.500,313.000 }</string>	
+								<string>{ 694.000,312.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,131.000 }</string>	
+								<string>{ 909.000,312.500 }</string>	
+								<string>{ 747.000,331.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,312.500 }</string>	
+								<string>{ -0.500,312.000 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 694.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 800.500,373.000 }</string>	
+								<string>{ 800.000,372.500 }</string>	
+								<string>{ 908.500,313.000 }</string>
+							</array>
+							<array>	
+								<string>{ 747.500,332.000 }</string>	
+								<string>{ 747.000,331.500 }</string>	
+								<string>{ 909.000,312.500 }</string>	
+								<string>{ 908.500,313.000 }</string>
+							</array>
+							<array>	
+								<string>{ 979.000,493.500 }</string>	
+								<string>{ 978.500,493.000 }</string>	
+								<string>{ 978.500,313.000 }</string>	
+								<string>{ 1127.500,313.000 }</string>	
+								<string>{ 1127.500,493.000 }</string>	
+								<string>{ 1127.000,493.500 }</string>
+							</array>
+							<array>	
+								<string>{ 978.500,313.000 }</string>	
+								<string>{ 978.000,312.500 }</string>	
+								<string>{ 1128.000,312.500 }</string>	
+								<string>{ 1127.500,313.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.500,131.000 }</string>	
+								<string>{ 1279.500,272.000 }</string>	
+								<string>{ 1203.000,312.500 }</string>	
+								<string>{ 909.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1203.000,312.500 }</string>	
+								<string>{ 1279.500,272.000 }</string>	
+								<string>{ 1203.500,313.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_27</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 74.500,471.000 }</string>	
+								<string>{ 75.000,470.500 }</string>	
+								<string>{ 76.000,471.500 }</string>	
+								<string>{ 75.000,471.500 }</string>
+							</array>
+							<array>	
+								<string>{ 701.500,471.000 }</string>	
+								<string>{ 701.000,471.500 }</string>	
+								<string>{ 700.000,471.500 }</string>	
+								<string>{ 701.000,470.500 }</string>
+							</array>
+							<array>	
+								<string>{ 80.000,474.500 }</string>	
+								<string>{ 79.000,473.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 81.000,474.500 }</string>
+							</array>
+							<array>	
+								<string>{ 82.000,475.500 }</string>	
+								<string>{ 81.000,474.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 83.000,475.500 }</string>
+							</array>
+							<array>	
+								<string>{ 87.000,478.500 }</string>	
+								<string>{ 86.000,477.500 }</string>	
+								<string>{ 88.000,478.500 }</string>
+							</array>
+							<array>	
+								<string>{ 89.000,479.500 }</string>	
+								<string>{ 88.000,478.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 90.000,479.500 }</string>
+							</array>
+							<array>	
+								<string>{ 91.000,480.500 }</string>	
+								<string>{ 90.000,479.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 92.000,480.500 }</string>
+							</array>
+							<array>	
+								<string>{ 96.000,483.500 }</string>	
+								<string>{ 95.000,482.500 }</string>	
+								<string>{ 97.000,483.500 }</string>
+							</array>
+							<array>	
+								<string>{ 98.000,484.500 }</string>	
+								<string>{ 97.000,483.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 99.000,484.500 }</string>
+							</array>
+							<array>	
+								<string>{ 103.000,487.500 }</string>	
+								<string>{ 102.000,486.500 }</string>	
+								<string>{ 104.000,487.500 }</string>
+							</array>
+							<array>	
+								<string>{ 105.000,488.500 }</string>	
+								<string>{ 104.000,487.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 106.000,488.500 }</string>
+							</array>
+							<array>	
+								<string>{ 107.000,489.500 }</string>	
+								<string>{ 106.000,488.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 108.000,489.500 }</string>
+							</array>
+							<array>	
+								<string>{ 112.000,492.500 }</string>	
+								<string>{ 111.000,491.500 }</string>	
+								<string>{ 113.000,492.500 }</string>
+							</array>
+							<array>	
+								<string>{ 114.000,493.500 }</string>	
+								<string>{ 113.000,492.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 115.000,493.500 }</string>
+							</array>
+							<array>	
+								<string>{ 119.000,496.500 }</string>	
+								<string>{ 118.000,495.500 }</string>	
+								<string>{ 120.000,496.500 }</string>
+							</array>
+							<array>	
+								<string>{ 121.000,497.500 }</string>	
+								<string>{ 120.000,496.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 122.000,497.500 }</string>
+							</array>
+							<array>	
+								<string>{ 123.000,498.500 }</string>	
+								<string>{ 122.000,497.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 124.000,498.500 }</string>
+							</array>
+							<array>	
+								<string>{ 128.000,501.500 }</string>	
+								<string>{ 127.000,500.500 }</string>	
+								<string>{ 129.000,501.500 }</string>
+							</array>
+							<array>	
+								<string>{ 130.000,502.500 }</string>	
+								<string>{ 129.000,501.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 131.000,502.500 }</string>
+							</array>
+							<array>	
+								<string>{ 135.000,505.500 }</string>	
+								<string>{ 134.000,504.500 }</string>	
+								<string>{ 136.000,505.500 }</string>
+							</array>
+							<array>	
+								<string>{ 137.000,506.500 }</string>	
+								<string>{ 136.000,505.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 138.000,506.500 }</string>
+							</array>
+							<array>	
+								<string>{ 139.000,507.500 }</string>	
+								<string>{ 138.000,506.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 140.000,507.500 }</string>
+							</array>
+							<array>	
+								<string>{ 144.000,510.500 }</string>	
+								<string>{ 143.000,509.500 }</string>	
+								<string>{ 145.000,510.500 }</string>
+							</array>
+							<array>	
+								<string>{ 146.000,511.500 }</string>	
+								<string>{ 145.000,510.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 147.000,511.500 }</string>
+							</array>
+							<array>	
+								<string>{ 151.000,514.500 }</string>	
+								<string>{ 150.000,513.500 }</string>	
+								<string>{ 152.000,514.500 }</string>
+							</array>
+							<array>	
+								<string>{ 153.000,515.500 }</string>	
+								<string>{ 152.000,514.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 154.000,515.500 }</string>
+							</array>
+							<array>	
+								<string>{ 155.000,516.500 }</string>	
+								<string>{ 154.000,515.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 156.000,516.500 }</string>
+							</array>
+							<array>	
+								<string>{ 160.000,519.500 }</string>	
+								<string>{ 159.000,518.500 }</string>	
+								<string>{ 161.000,519.500 }</string>
+							</array>
+							<array>	
+								<string>{ 162.000,520.500 }</string>	
+								<string>{ 161.000,519.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 163.000,520.500 }</string>
+							</array>
+							<array>	
+								<string>{ 167.000,523.500 }</string>	
+								<string>{ 166.000,522.500 }</string>	
+								<string>{ 168.000,523.500 }</string>
+							</array>
+							<array>	
+								<string>{ 169.000,524.500 }</string>	
+								<string>{ 168.000,523.500 }</string>	
+								<string>{ 170.000,524.500 }</string>
+							</array>
+							<array>	
+								<string>{ 174.000,527.500 }</string>	
+								<string>{ 173.000,526.500 }</string>	
+								<string>{ 175.000,527.500 }</string>
+							</array>
+							<array>	
+								<string>{ 176.000,528.500 }</string>	
+								<string>{ 175.000,527.500 }</string>	
+								<string>{ 177.000,528.500 }</string>
+							</array>
+							<array>	
+								<string>{ 178.000,529.500 }</string>	
+								<string>{ 177.000,528.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 179.000,529.500 }</string>
+							</array>
+							<array>	
+								<string>{ 183.000,532.500 }</string>	
+								<string>{ 182.000,531.500 }</string>	
+								<string>{ 184.000,532.500 }</string>
+							</array>
+							<array>	
+								<string>{ 185.000,533.500 }</string>	
+								<string>{ 184.000,532.500 }</string>	
+								<string>{ 186.000,533.500 }</string>
+							</array>
+							<array>	
+								<string>{ 589.000,534.500 }</string>	
+								<string>{ 588.000,534.500 }</string>	
+								<string>{ 644.500,470.000 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 590.000,533.500 }</string>
+							</array>
+							<array>	
+								<string>{ 591.000,533.500 }</string>	
+								<string>{ 590.000,533.500 }</string>	
+								<string>{ 592.000,532.500 }</string>
+							</array>
+							<array>	
+								<string>{ 593.000,532.500 }</string>	
+								<string>{ 592.000,532.500 }</string>	
+								<string>{ 594.000,531.500 }</string>
+							</array>
+							<array>	
+								<string>{ 598.000,529.500 }</string>	
+								<string>{ 597.000,529.500 }</string>	
+								<string>{ 599.000,528.500 }</string>
+							</array>
+							<array>	
+								<string>{ 600.000,528.500 }</string>	
+								<string>{ 599.000,528.500 }</string>	
+								<string>{ 601.000,527.500 }</string>
+							</array>
+							<array>	
+								<string>{ 605.000,525.500 }</string>	
+								<string>{ 604.000,525.500 }</string>	
+								<string>{ 606.000,524.500 }</string>
+							</array>
+							<array>	
+								<string>{ 607.000,524.500 }</string>	
+								<string>{ 606.000,524.500 }</string>	
+								<string>{ 608.000,523.500 }</string>
+							</array>
+							<array>	
+								<string>{ 612.000,521.500 }</string>	
+								<string>{ 611.000,521.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 613.000,520.500 }</string>
+							</array>
+							<array>	
+								<string>{ 614.000,520.500 }</string>	
+								<string>{ 613.000,520.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 615.000,519.500 }</string>
+							</array>
+							<array>	
+								<string>{ 616.000,519.500 }</string>	
+								<string>{ 615.000,519.500 }</string>	
+								<string>{ 617.000,518.500 }</string>
+							</array>
+							<array>	
+								<string>{ 621.000,516.500 }</string>	
+								<string>{ 620.000,516.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 622.000,515.500 }</string>
+							</array>
+							<array>	
+								<string>{ 623.000,515.500 }</string>	
+								<string>{ 622.000,515.500 }</string>	
+								<string>{ 624.000,514.500 }</string>
+							</array>
+							<array>	
+								<string>{ 628.000,512.500 }</string>	
+								<string>{ 627.000,512.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 629.000,511.500 }</string>
+							</array>
+							<array>	
+								<string>{ 630.000,511.500 }</string>	
+								<string>{ 629.000,511.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 631.000,510.500 }</string>
+							</array>
+							<array>	
+								<string>{ 632.000,510.500 }</string>	
+								<string>{ 631.000,510.500 }</string>	
+								<string>{ 633.000,509.500 }</string>
+							</array>
+							<array>	
+								<string>{ 637.000,507.500 }</string>	
+								<string>{ 636.000,507.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 638.000,506.500 }</string>
+							</array>
+							<array>	
+								<string>{ 639.000,506.500 }</string>	
+								<string>{ 638.000,506.500 }</string>	
+								<string>{ 640.000,505.500 }</string>
+							</array>
+							<array>	
+								<string>{ 644.000,503.500 }</string>	
+								<string>{ 643.000,503.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 645.000,502.500 }</string>
+							</array>
+							<array>	
+								<string>{ 646.000,502.500 }</string>	
+								<string>{ 645.000,502.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 647.000,501.500 }</string>
+							</array>
+							<array>	
+								<string>{ 648.000,501.500 }</string>	
+								<string>{ 647.000,501.500 }</string>	
+								<string>{ 649.000,500.500 }</string>
+							</array>
+							<array>	
+								<string>{ 653.000,498.500 }</string>	
+								<string>{ 652.000,498.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 654.000,497.500 }</string>
+							</array>
+							<array>	
+								<string>{ 655.000,497.500 }</string>	
+								<string>{ 654.000,497.500 }</string>	
+								<string>{ 656.000,496.500 }</string>
+							</array>
+							<array>	
+								<string>{ 660.000,494.500 }</string>	
+								<string>{ 659.000,494.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 661.000,493.500 }</string>
+							</array>
+							<array>	
+								<string>{ 662.000,493.500 }</string>	
+								<string>{ 661.000,493.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 663.000,492.500 }</string>
+							</array>
+							<array>	
+								<string>{ 664.000,492.500 }</string>	
+								<string>{ 663.000,492.500 }</string>	
+								<string>{ 665.000,491.500 }</string>
+							</array>
+							<array>	
+								<string>{ 669.000,489.500 }</string>	
+								<string>{ 668.000,489.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 670.000,488.500 }</string>
+							</array>
+							<array>	
+								<string>{ 671.000,488.500 }</string>	
+								<string>{ 670.000,488.500 }</string>	
+								<string>{ 672.000,487.500 }</string>
+							</array>
+							<array>	
+								<string>{ 676.000,485.500 }</string>	
+								<string>{ 675.000,485.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 677.000,484.500 }</string>
+							</array>
+							<array>	
+								<string>{ 678.000,484.500 }</string>	
+								<string>{ 677.000,484.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 679.000,483.500 }</string>
+							</array>
+							<array>	
+								<string>{ 680.000,483.500 }</string>	
+								<string>{ 679.000,483.500 }</string>	
+								<string>{ 681.000,482.500 }</string>
+							</array>
+							<array>	
+								<string>{ 685.000,480.500 }</string>	
+								<string>{ 684.000,480.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 686.000,479.500 }</string>
+							</array>
+							<array>	
+								<string>{ 687.000,479.500 }</string>	
+								<string>{ 686.000,479.500 }</string>	
+								<string>{ 688.000,478.500 }</string>
+							</array>
+							<array>	
+								<string>{ 692.000,476.500 }</string>	
+								<string>{ 691.000,476.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 693.000,475.500 }</string>
+							</array>
+							<array>	
+								<string>{ 694.000,475.500 }</string>	
+								<string>{ 693.000,475.500 }</string>	
+								<string>{ 695.000,474.500 }</string>
+							</array>
+							<array>	
+								<string>{ 699.000,472.500 }</string>	
+								<string>{ 698.000,472.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 701.000,470.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,544.500 }</string>	
+								<string>{ -0.500,544.000 }</string>	
+								<string>{ -0.500,273.000 }</string>	
+								<string>{ 55.500,313.000 }</string>	
+								<string>{ 55.500,544.000 }</string>
+							</array>
+							<array>	
+								<string>{ 78.000,473.500 }</string>	
+								<string>{ 75.000,470.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 79.000,473.500 }</string>
+							</array>
+							<array>	
+								<string>{ 85.000,477.500 }</string>	
+								<string>{ 83.000,475.500 }</string>	
+								<string>{ 86.000,477.500 }</string>
+							</array>
+							<array>	
+								<string>{ 94.000,482.500 }</string>	
+								<string>{ 92.000,480.500 }</string>	
+								<string>{ 95.000,482.500 }</string>
+							</array>
+							<array>	
+								<string>{ 101.000,486.500 }</string>	
+								<string>{ 99.000,484.500 }</string>	
+								<string>{ 102.000,486.500 }</string>
+							</array>
+							<array>	
+								<string>{ 110.000,491.500 }</string>	
+								<string>{ 108.000,489.500 }</string>	
+								<string>{ 111.000,491.500 }</string>
+							</array>
+							<array>	
+								<string>{ 117.000,495.500 }</string>	
+								<string>{ 115.000,493.500 }</string>	
+								<string>{ 118.000,495.500 }</string>
+							</array>
+							<array>	
+								<string>{ 126.000,500.500 }</string>	
+								<string>{ 124.000,498.500 }</string>	
+								<string>{ 127.000,500.500 }</string>
+							</array>
+							<array>	
+								<string>{ 133.000,504.500 }</string>	
+								<string>{ 131.000,502.500 }</string>	
+								<string>{ 134.000,504.500 }</string>
+							</array>
+							<array>	
+								<string>{ 142.000,509.500 }</string>	
+								<string>{ 140.000,507.500 }</string>	
+								<string>{ 143.000,509.500 }</string>
+							</array>
+							<array>	
+								<string>{ 149.000,513.500 }</string>	
+								<string>{ 147.000,511.500 }</string>	
+								<string>{ 150.000,513.500 }</string>
+							</array>
+							<array>	
+								<string>{ 158.000,518.500 }</string>	
+								<string>{ 156.000,516.500 }</string>	
+								<string>{ 159.000,518.500 }</string>
+							</array>
+							<array>	
+								<string>{ 165.000,522.500 }</string>	
+								<string>{ 163.000,520.500 }</string>	
+								<string>{ 166.000,522.500 }</string>
+							</array>
+							<array>	
+								<string>{ 172.000,526.500 }</string>	
+								<string>{ 170.000,524.500 }</string>	
+								<string>{ 173.000,526.500 }</string>
+							</array>
+							<array>	
+								<string>{ 181.000,531.500 }</string>	
+								<string>{ 179.000,529.500 }</string>	
+								<string>{ 182.000,531.500 }</string>
+							</array>
+							<array>	
+								<string>{ 595.000,531.500 }</string>	
+								<string>{ 594.000,531.500 }</string>	
+								<string>{ 597.000,529.500 }</string>
+							</array>
+							<array>	
+								<string>{ 602.000,527.500 }</string>	
+								<string>{ 601.000,527.500 }</string>	
+								<string>{ 604.000,525.500 }</string>
+							</array>
+							<array>	
+								<string>{ 609.000,523.500 }</string>	
+								<string>{ 608.000,523.500 }</string>	
+								<string>{ 611.000,521.500 }</string>
+							</array>
+							<array>	
+								<string>{ 618.000,518.500 }</string>	
+								<string>{ 617.000,518.500 }</string>	
+								<string>{ 620.000,516.500 }</string>
+							</array>
+							<array>	
+								<string>{ 625.000,514.500 }</string>	
+								<string>{ 624.000,514.500 }</string>	
+								<string>{ 627.000,512.500 }</string>
+							</array>
+							<array>	
+								<string>{ 634.000,509.500 }</string>	
+								<string>{ 633.000,509.500 }</string>	
+								<string>{ 636.000,507.500 }</string>
+							</array>
+							<array>	
+								<string>{ 641.000,505.500 }</string>	
+								<string>{ 640.000,505.500 }</string>	
+								<string>{ 643.000,503.500 }</string>
+							</array>
+							<array>	
+								<string>{ 650.000,500.500 }</string>	
+								<string>{ 649.000,500.500 }</string>	
+								<string>{ 652.000,498.500 }</string>
+							</array>
+							<array>	
+								<string>{ 657.000,496.500 }</string>	
+								<string>{ 656.000,496.500 }</string>	
+								<string>{ 659.000,494.500 }</string>
+							</array>
+							<array>	
+								<string>{ 666.000,491.500 }</string>	
+								<string>{ 665.000,491.500 }</string>	
+								<string>{ 668.000,489.500 }</string>
+							</array>
+							<array>	
+								<string>{ 673.000,487.500 }</string>	
+								<string>{ 672.000,487.500 }</string>	
+								<string>{ 675.000,485.500 }</string>
+							</array>
+							<array>	
+								<string>{ 682.000,482.500 }</string>	
+								<string>{ 681.000,482.500 }</string>	
+								<string>{ 684.000,480.500 }</string>
+							</array>
+							<array>	
+								<string>{ 689.000,478.500 }</string>	
+								<string>{ 688.000,478.500 }</string>	
+								<string>{ 691.000,476.500 }</string>
+							</array>
+							<array>	
+								<string>{ 696.000,474.500 }</string>	
+								<string>{ 695.000,474.500 }</string>	
+								<string>{ 698.000,472.500 }</string>
+							</array>
+							<array>	
+								<string>{ 902.000,311.500 }</string>	
+								<string>{ 893.000,311.500 }</string>	
+								<string>{ 903.000,310.500 }</string>
+							</array>
+							<array>	
+								<string>{ 913.000,310.500 }</string>	
+								<string>{ 903.000,310.500 }</string>	
+								<string>{ 914.000,309.500 }</string>
+							</array>
+							<array>	
+								<string>{ 925.000,309.500 }</string>	
+								<string>{ 914.000,309.500 }</string>	
+								<string>{ 926.000,308.500 }</string>
+							</array>
+							<array>	
+								<string>{ 937.000,308.500 }</string>	
+								<string>{ 926.000,308.500 }</string>	
+								<string>{ 938.000,307.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 312.000,0.500 }</string>	
+								<string>{ -0.500,273.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 951.000,307.500 }</string>	
+								<string>{ 938.000,307.500 }</string>	
+								<string>{ 952.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 966.000,306.500 }</string>	
+								<string>{ 952.000,306.500 }</string>	
+								<string>{ 967.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 982.000,305.500 }</string>	
+								<string>{ 967.000,305.500 }</string>	
+								<string>{ 983.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1000.000,304.500 }</string>	
+								<string>{ 983.000,304.500 }</string>	
+								<string>{ 1001.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1021.000,303.500 }</string>	
+								<string>{ 1001.000,303.500 }</string>	
+								<string>{ 1022.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,299.000 }</string>	
+								<string>{ -0.500,273.000 }</string>	
+								<string>{ 1279.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 86.000,477.500 }</string>	
+								<string>{ 83.000,475.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 88.000,478.500 }</string>
+							</array>
+							<array>	
+								<string>{ 95.000,482.500 }</string>	
+								<string>{ 92.000,480.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 97.000,483.500 }</string>
+							</array>
+							<array>	
+								<string>{ 102.000,486.500 }</string>	
+								<string>{ 99.000,484.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 104.000,487.500 }</string>
+							</array>
+							<array>	
+								<string>{ 111.000,491.500 }</string>	
+								<string>{ 108.000,489.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 113.000,492.500 }</string>
+							</array>
+							<array>	
+								<string>{ 118.000,495.500 }</string>	
+								<string>{ 115.000,493.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 120.000,496.500 }</string>
+							</array>
+							<array>	
+								<string>{ 127.000,500.500 }</string>	
+								<string>{ 124.000,498.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 129.000,501.500 }</string>
+							</array>
+							<array>	
+								<string>{ 134.000,504.500 }</string>	
+								<string>{ 131.000,502.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 136.000,505.500 }</string>
+							</array>
+							<array>	
+								<string>{ 143.000,509.500 }</string>	
+								<string>{ 140.000,507.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 145.000,510.500 }</string>
+							</array>
+							<array>	
+								<string>{ 150.000,513.500 }</string>	
+								<string>{ 147.000,511.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 152.000,514.500 }</string>
+							</array>
+							<array>	
+								<string>{ 159.000,518.500 }</string>	
+								<string>{ 156.000,516.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 161.000,519.500 }</string>
+							</array>
+							<array>	
+								<string>{ 166.000,522.500 }</string>	
+								<string>{ 163.000,520.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 170.000,524.500 }</string>
+							</array>
+							<array>	
+								<string>{ 173.000,526.500 }</string>	
+								<string>{ 170.000,524.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 177.000,528.500 }</string>
+							</array>
+							<array>	
+								<string>{ 182.000,531.500 }</string>	
+								<string>{ 179.000,529.500 }</string>	
+								<string>{ 131.000,470.500 }</string>	
+								<string>{ 131.500,470.000 }</string>	
+								<string>{ 186.000,533.500 }</string>
+							</array>
+							<array>	
+								<string>{ 594.000,531.500 }</string>	
+								<string>{ 590.000,533.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 597.000,529.500 }</string>
+							</array>
+							<array>	
+								<string>{ 601.000,527.500 }</string>	
+								<string>{ 597.000,529.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 604.000,525.500 }</string>
+							</array>
+							<array>	
+								<string>{ 608.000,523.500 }</string>	
+								<string>{ 604.000,525.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 611.000,521.500 }</string>
+							</array>
+							<array>	
+								<string>{ 617.000,518.500 }</string>	
+								<string>{ 615.000,519.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 620.000,516.500 }</string>
+							</array>
+							<array>	
+								<string>{ 624.000,514.500 }</string>	
+								<string>{ 622.000,515.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 627.000,512.500 }</string>
+							</array>
+							<array>	
+								<string>{ 633.000,509.500 }</string>	
+								<string>{ 631.000,510.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 636.000,507.500 }</string>
+							</array>
+							<array>	
+								<string>{ 640.000,505.500 }</string>	
+								<string>{ 638.000,506.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 643.000,503.500 }</string>
+							</array>
+							<array>	
+								<string>{ 649.000,500.500 }</string>	
+								<string>{ 647.000,501.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 652.000,498.500 }</string>
+							</array>
+							<array>	
+								<string>{ 656.000,496.500 }</string>	
+								<string>{ 654.000,497.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 659.000,494.500 }</string>
+							</array>
+							<array>	
+								<string>{ 665.000,491.500 }</string>	
+								<string>{ 663.000,492.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 668.000,489.500 }</string>
+							</array>
+							<array>	
+								<string>{ 672.000,487.500 }</string>	
+								<string>{ 670.000,488.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 675.000,485.500 }</string>
+							</array>
+							<array>	
+								<string>{ 681.000,482.500 }</string>	
+								<string>{ 679.000,483.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 684.000,480.500 }</string>
+							</array>
+							<array>	
+								<string>{ 688.000,478.500 }</string>	
+								<string>{ 686.000,479.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 691.000,476.500 }</string>
+							</array>
+							<array>	
+								<string>{ 695.000,474.500 }</string>	
+								<string>{ 693.000,475.500 }</string>	
+								<string>{ 645.000,470.500 }</string>	
+								<string>{ 698.000,472.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1046.000,302.500 }</string>	
+								<string>{ 1022.000,302.500 }</string>	
+								<string>{ 1047.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1077.000,301.500 }</string>	
+								<string>{ 1047.000,301.500 }</string>	
+								<string>{ 1078.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 312.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ -0.500,273.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1121.000,300.500 }</string>	
+								<string>{ 1078.000,300.500 }</string>	
+								<string>{ 1122.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 55.000,544.500 }</string>	
+								<string>{ 2.000,544.500 }</string>	
+								<string>{ 55.500,544.000 }</string>
+							</array>
+							<array>	
+								<string>{ 55.500,313.000 }</string>	
+								<string>{ -0.500,273.000 }</string>	
+								<string>{ 56.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 56.000,312.500 }</string>	
+								<string>{ -0.500,273.000 }</string>	
+								<string>{ 1122.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 131.500,470.000 }</string>	
+								<string>{ 131.500,313.000 }</string>	
+								<string>{ 644.500,313.000 }</string>	
+								<string>{ 588.000,534.500 }</string>	
+								<string>{ 587.000,535.500 }</string>	
+								<string>{ 188.000,535.500 }</string>	
+								<string>{ 186.000,533.500 }</string>
+							</array>
+							<array>	
+								<string>{ 644.500,470.000 }</string>	
+								<string>{ 588.000,534.500 }</string>	
+								<string>{ 644.500,313.000 }</string>
+							</array>
+							<array>	
+								<string>{ 892.000,312.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 893.000,311.500 }</string>
+							</array>
+							<array>	
+								<string>{ 893.000,311.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 903.000,310.500 }</string>
+							</array>
+							<array>	
+								<string>{ 903.000,310.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 914.000,309.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.000,299.500 }</string>	
+								<string>{ -0.500,273.000 }</string>	
+								<string>{ 1279.500,299.000 }</string>
+							</array>
+							<array>	
+								<string>{ 914.000,309.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 938.000,307.500 }</string>
+							</array>
+							<array>	
+								<string>{ 938.000,307.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 952.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 952.000,306.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 967.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 967.000,305.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 983.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 983.000,304.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 1001.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 131.000,312.500 }</string>	
+								<string>{ 1022.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 131.500,313.000 }</string>	
+								<string>{ 131.000,312.500 }</string>	
+								<string>{ 645.000,312.500 }</string>	
+								<string>{ 644.500,313.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1022.000,302.500 }</string>	
+								<string>{ 131.000,312.500 }</string>	
+								<string>{ 1047.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1078.000,300.500 }</string>	
+								<string>{ 1122.000,299.500 }</string>	
+								<string>{ 1047.000,301.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_28</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 891.000,325.500 }</string>	
+								<string>{ 890.000,325.500 }</string>	
+								<string>{ 892.000,324.500 }</string>
+							</array>
+							<array>	
+								<string>{ 896.000,322.500 }</string>	
+								<string>{ 895.000,322.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 897.000,321.500 }</string>
+							</array>
+							<array>	
+								<string>{ 898.000,321.500 }</string>	
+								<string>{ 897.000,321.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 899.000,320.500 }</string>
+							</array>
+							<array>	
+								<string>{ 900.000,320.500 }</string>	
+								<string>{ 899.000,320.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 901.000,319.500 }</string>
+							</array>
+							<array>	
+								<string>{ 902.000,319.500 }</string>	
+								<string>{ 901.000,319.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 903.000,318.500 }</string>
+							</array>
+							<array>	
+								<string>{ 904.000,318.500 }</string>	
+								<string>{ 903.000,318.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 905.000,317.500 }</string>
+							</array>
+							<array>	
+								<string>{ 906.000,317.500 }</string>	
+								<string>{ 905.000,317.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 907.000,316.500 }</string>
+							</array>
+							<array>	
+								<string>{ 908.000,316.500 }</string>	
+								<string>{ 907.000,316.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 909.000,315.500 }</string>
+							</array>
+							<array>	
+								<string>{ 910.000,315.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 911.000,314.500 }</string>
+							</array>
+							<array>	
+								<string>{ 912.000,314.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 913.000,313.500 }</string>
+							</array>
+							<array>	
+								<string>{ 914.000,313.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 915.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 916.000,312.500 }</string>	
+								<string>{ 915.000,312.500 }</string>	
+								<string>{ 917.000,311.500 }</string>
+							</array>
+							<array>	
+								<string>{ 919.000,311.500 }</string>	
+								<string>{ 917.000,311.500 }</string>	
+								<string>{ 920.000,310.500 }</string>
+							</array>
+							<array>	
+								<string>{ 921.000,310.500 }</string>	
+								<string>{ 920.000,310.500 }</string>	
+								<string>{ 922.000,309.500 }</string>
+							</array>
+							<array>	
+								<string>{ 924.000,309.500 }</string>	
+								<string>{ 922.000,309.500 }</string>	
+								<string>{ 925.000,308.500 }</string>
+							</array>
+							<array>	
+								<string>{ 927.000,308.500 }</string>	
+								<string>{ 925.000,308.500 }</string>	
+								<string>{ 928.000,307.500 }</string>
+							</array>
+							<array>	
+								<string>{ 930.000,307.500 }</string>	
+								<string>{ 928.000,307.500 }</string>	
+								<string>{ 931.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 937.000,305.500 }</string>	
+								<string>{ 935.000,305.500 }</string>	
+								<string>{ 938.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 830.000,342.500 }</string>	
+								<string>{ 829.500,342.000 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 831.000,342.500 }</string>
+							</array>
+							<array>	
+								<string>{ 832.000,343.500 }</string>	
+								<string>{ 831.000,342.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 875.000,335.500 }</string>	
+								<string>{ 871.000,338.500 }</string>	
+								<string>{ 868.000,340.500 }</string>	
+								<string>{ 834.000,343.500 }</string>
+							</array>
+							<array>	
+								<string>{ 934.000,306.500 }</string>	
+								<string>{ 931.000,306.500 }</string>	
+								<string>{ 935.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 941.000,304.500 }</string>	
+								<string>{ 938.000,304.500 }</string>	
+								<string>{ 942.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 741.000,308.500 }</string>	
+								<string>{ 740.000,307.500 }</string>	
+								<string>{ 744.000,308.500 }</string>
+							</array>
+							<array>	
+								<string>{ 745.000,309.500 }</string>	
+								<string>{ 744.000,308.500 }</string>	
+								<string>{ 748.000,309.500 }</string>
+							</array>
+							<array>	
+								<string>{ 749.000,310.500 }</string>	
+								<string>{ 748.000,309.500 }</string>	
+								<string>{ 752.000,310.500 }</string>
+							</array>
+							<array>	
+								<string>{ 753.000,311.500 }</string>	
+								<string>{ 752.000,310.500 }</string>	
+								<string>{ 756.000,311.500 }</string>
+							</array>
+							<array>	
+								<string>{ 946.000,303.500 }</string>	
+								<string>{ 942.000,303.500 }</string>	
+								<string>{ 947.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 951.000,302.500 }</string>	
+								<string>{ 947.000,302.500 }</string>	
+								<string>{ 952.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 956.000,301.500 }</string>	
+								<string>{ 952.000,301.500 }</string>	
+								<string>{ 957.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 726.000,305.500 }</string>	
+								<string>{ 725.000,304.500 }</string>	
+								<string>{ 730.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 731.000,306.500 }</string>	
+								<string>{ 730.000,305.500 }</string>	
+								<string>{ 735.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 736.000,307.500 }</string>	
+								<string>{ 735.000,306.500 }</string>	
+								<string>{ 740.000,307.500 }</string>
+							</array>
+							<array>	
+								<string>{ 869.000,340.500 }</string>	
+								<string>{ 868.000,340.500 }</string>	
+								<string>{ 871.000,338.500 }</string>
+							</array>
+							<array>	
+								<string>{ 876.000,335.500 }</string>	
+								<string>{ 875.000,335.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 878.000,333.500 }</string>
+							</array>
+							<array>	
+								<string>{ 879.000,333.500 }</string>	
+								<string>{ 878.000,333.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 881.000,331.500 }</string>
+							</array>
+							<array>	
+								<string>{ 882.000,331.500 }</string>	
+								<string>{ 881.000,331.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 884.000,329.500 }</string>
+							</array>
+							<array>	
+								<string>{ 885.000,329.500 }</string>	
+								<string>{ 884.000,329.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 887.000,327.500 }</string>
+							</array>
+							<array>	
+								<string>{ 888.000,327.500 }</string>	
+								<string>{ 887.000,327.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 890.000,325.500 }</string>
+							</array>
+							<array>	
+								<string>{ 893.000,324.500 }</string>	
+								<string>{ 892.000,324.500 }</string>	
+								<string>{ 895.000,322.500 }</string>
+							</array>
+							<array>	
+								<string>{ 708.000,302.500 }</string>	
+								<string>{ 707.000,301.500 }</string>	
+								<string>{ 713.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 714.000,303.500 }</string>	
+								<string>{ 713.000,302.500 }</string>	
+								<string>{ 719.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 720.000,304.500 }</string>	
+								<string>{ 719.000,303.500 }</string>	
+								<string>{ 725.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 963.000,300.500 }</string>	
+								<string>{ 957.000,300.500 }</string>	
+								<string>{ 964.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 694.000,300.500 }</string>	
+								<string>{ 693.000,299.500 }</string>	
+								<string>{ 700.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 701.000,301.500 }</string>	
+								<string>{ 700.000,300.500 }</string>	
+								<string>{ 707.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 872.000,338.500 }</string>	
+								<string>{ 871.000,338.500 }</string>	
+								<string>{ 875.000,335.500 }</string>
+							</array>
+							<array>	
+								<string>{ 971.000,299.500 }</string>	
+								<string>{ 964.000,299.500 }</string>	
+								<string>{ 972.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 685.000,299.500 }</string>	
+								<string>{ 684.000,298.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 693.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 981.000,298.500 }</string>	
+								<string>{ 972.000,298.500 }</string>	
+								<string>{ 982.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 9.000,299.500 }</string>	
+								<string>{ 0.000,299.500 }</string>	
+								<string>{ -0.500,299.000 }</string>	
+								<string>{ 10.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 665.000,297.500 }</string>	
+								<string>{ 664.000,296.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 674.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 675.000,298.500 }</string>	
+								<string>{ 674.000,297.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 684.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 865.000,343.500 }</string>	
+								<string>{ 834.000,343.500 }</string>	
+								<string>{ 868.000,340.500 }</string>
+							</array>
+							<array>	
+								<string>{ 994.000,297.500 }</string>	
+								<string>{ 982.000,297.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ -0.500,43.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ -0.500,43.000 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ -0.500,299.000 }</string>
+							</array>
+							<array>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 10.000,298.500 }</string>	
+								<string>{ -0.500,299.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1008.000,296.500 }</string>	
+								<string>{ 995.000,296.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1009.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 651.000,296.500 }</string>	
+								<string>{ 650.000,295.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 664.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1024.000,295.500 }</string>	
+								<string>{ 1009.000,295.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1025.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 635.000,295.500 }</string>	
+								<string>{ 634.000,294.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 650.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1184.000,287.500 }</string>	
+								<string>{ 1168.000,287.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,49.000 }</string>	
+								<string>{ 1185.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1201.000,286.500 }</string>	
+								<string>{ 1185.000,286.500 }</string>	
+								<string>{ 1279.500,49.000 }</string>	
+								<string>{ 1202.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 920.000,310.500 }</string>	
+								<string>{ 917.000,311.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 922.000,309.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1167.000,288.500 }</string>	
+								<string>{ 1150.000,288.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1168.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1219.000,285.500 }</string>	
+								<string>{ 1202.000,285.500 }</string>	
+								<string>{ 1279.500,49.000 }</string>	
+								<string>{ 1279.500,132.000 }</string>	
+								<string>{ 1220.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1237.000,284.500 }</string>	
+								<string>{ 1220.000,284.500 }</string>	
+								<string>{ 1279.500,132.000 }</string>	
+								<string>{ 1238.000,283.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1043.000,294.500 }</string>	
+								<string>{ 1025.000,294.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1044.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1149.000,289.500 }</string>	
+								<string>{ 1131.000,289.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1150.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1256.000,283.500 }</string>	
+								<string>{ 1238.000,283.500 }</string>	
+								<string>{ 1279.500,132.000 }</string>	
+								<string>{ 1257.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1063.000,293.500 }</string>	
+								<string>{ 1044.000,293.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1064.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 892.000,324.500 }</string>	
+								<string>{ 890.000,325.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 895.000,322.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1085.000,292.500 }</string>	
+								<string>{ 1064.000,292.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1086.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1130.000,290.500 }</string>	
+								<string>{ 1109.000,290.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1131.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1108.000,291.500 }</string>	
+								<string>{ 1086.000,291.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1109.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 478.000,296.500 }</string>	
+								<string>{ 452.000,296.500 }</string>	
+								<string>{ 479.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 505.000,295.500 }</string>	
+								<string>{ 479.000,295.500 }</string>	
+								<string>{ 506.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 608.000,294.500 }</string>	
+								<string>{ 607.000,293.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 634.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 935.000,305.500 }</string>	
+								<string>{ 931.000,306.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 938.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 541.000,294.500 }</string>	
+								<string>{ 506.000,294.500 }</string>	
+								<string>{ 542.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 451.000,297.500 }</string>	
+								<string>{ 414.000,297.500 }</string>	
+								<string>{ 452.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.000,282.500 }</string>	
+								<string>{ 1257.000,282.500 }</string>	
+								<string>{ 1279.500,132.000 }</string>	
+								<string>{ 1279.500,282.000 }</string>
+							</array>
+							<array>	
+								<string>{ 982.000,297.500 }</string>	
+								<string>{ 972.000,298.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 757.000,312.500 }</string>	
+								<string>{ 756.000,311.500 }</string>	
+								<string>{ 829.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 756.000,311.500 }</string>	
+								<string>{ 740.000,307.500 }</string>	
+								<string>{ 829.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 915.000,312.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 917.000,311.500 }</string>
+							</array>
+							<array>	
+								<string>{ 972.000,298.500 }</string>	
+								<string>{ 964.000,299.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 964.000,299.500 }</string>	
+								<string>{ 957.000,300.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 922.000,309.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 931.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 740.000,307.500 }</string>	
+								<string>{ 725.000,304.500 }</string>	
+								<string>{ 829.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 938.000,304.500 }</string>	
+								<string>{ 829.500,313.000 }</string>	
+								<string>{ 829.000,312.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 942.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 957.000,300.500 }</string>	
+								<string>{ 942.000,303.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 413.000,298.500 }</string>	
+								<string>{ 212.000,298.500 }</string>	
+								<string>{ 414.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 725.000,304.500 }</string>	
+								<string>{ 707.000,301.500 }</string>	
+								<string>{ 829.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 10.000,298.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 506.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 707.000,301.500 }</string>	
+								<string>{ 693.000,299.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 829.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 506.000,294.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 542.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 542.000,293.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 607.000,293.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_29</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 1279.000,288.500 }</string>	
+								<string>{ 1278.000,287.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1279.500,288.000 }</string>
+							</array>
+							<array>	
+								<string>{ 929.500,312.000 }</string>	
+								<string>{ 929.000,312.500 }</string>	
+								<string>{ 821.000,312.500 }</string>	
+								<string>{ 928.500,310.000 }</string>	
+								<string>{ 929.500,311.000 }</string>
+							</array>
+							<array>	
+								<string>{ 934.000,302.500 }</string>	
+								<string>{ 932.000,302.500 }</string>	
+								<string>{ 935.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 937.000,301.500 }</string>	
+								<string>{ 935.000,301.500 }</string>	
+								<string>{ 938.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 940.000,300.500 }</string>	
+								<string>{ 938.000,300.500 }</string>	
+								<string>{ 941.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 942.000,299.500 }</string>	
+								<string>{ 941.000,299.500 }</string>	
+								<string>{ 943.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 945.000,298.500 }</string>	
+								<string>{ 943.000,298.500 }</string>	
+								<string>{ 946.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 948.000,297.500 }</string>	
+								<string>{ 946.000,297.500 }</string>	
+								<string>{ 949.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 951.000,296.500 }</string>	
+								<string>{ 949.000,296.500 }</string>	
+								<string>{ 952.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 953.000,295.500 }</string>	
+								<string>{ 952.000,295.500 }</string>	
+								<string>{ 954.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 956.000,294.500 }</string>	
+								<string>{ 954.000,294.500 }</string>	
+								<string>{ 957.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 959.000,293.500 }</string>	
+								<string>{ 957.000,293.500 }</string>	
+								<string>{ 960.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 962.000,292.500 }</string>	
+								<string>{ 960.000,292.500 }</string>	
+								<string>{ 963.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 965.000,291.500 }</string>	
+								<string>{ 963.000,291.500 }</string>	
+								<string>{ 966.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 968.000,290.500 }</string>	
+								<string>{ 966.000,290.500 }</string>	
+								<string>{ 969.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 971.000,289.500 }</string>	
+								<string>{ 969.000,289.500 }</string>	
+								<string>{ 972.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 974.000,288.500 }</string>	
+								<string>{ 972.000,288.500 }</string>	
+								<string>{ 975.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 977.000,287.500 }</string>	
+								<string>{ 975.000,287.500 }</string>	
+								<string>{ 978.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 980.000,286.500 }</string>	
+								<string>{ 978.000,286.500 }</string>	
+								<string>{ 981.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 983.000,285.500 }</string>	
+								<string>{ 981.000,285.500 }</string>	
+								<string>{ 984.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 986.000,284.500 }</string>	
+								<string>{ 984.000,284.500 }</string>	
+								<string>{ 987.000,283.500 }</string>
+							</array>
+							<array>	
+								<string>{ 989.000,283.500 }</string>	
+								<string>{ 987.000,283.500 }</string>	
+								<string>{ 990.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 996.000,281.500 }</string>	
+								<string>{ 994.000,281.500 }</string>	
+								<string>{ 997.000,280.500 }</string>
+							</array>
+							<array>	
+								<string>{ 999.000,280.500 }</string>	
+								<string>{ 997.000,280.500 }</string>	
+								<string>{ 1000.000,279.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1006.000,278.500 }</string>	
+								<string>{ 1004.000,278.500 }</string>	
+								<string>{ 1007.000,277.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1017.000,275.500 }</string>	
+								<string>{ 1015.000,275.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1217.000,270.500 }</string>	
+								<string>{ 1216.000,269.500 }</string>	
+								<string>{ 1219.000,270.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1224.000,272.500 }</string>	
+								<string>{ 1223.000,271.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1226.000,272.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1227.000,273.500 }</string>	
+								<string>{ 1226.000,272.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1229.000,273.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1230.000,274.500 }</string>	
+								<string>{ 1229.000,273.500 }</string>	
+								<string>{ 1232.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1233.000,275.500 }</string>	
+								<string>{ 1232.000,274.500 }</string>	
+								<string>{ 1235.000,275.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1240.000,277.500 }</string>	
+								<string>{ 1239.000,276.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1242.000,277.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1243.000,278.500 }</string>	
+								<string>{ 1242.000,277.500 }</string>	
+								<string>{ 1245.000,278.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1246.000,279.500 }</string>	
+								<string>{ 1245.000,278.500 }</string>	
+								<string>{ 1248.000,279.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1253.000,281.500 }</string>	
+								<string>{ 1252.000,280.500 }</string>	
+								<string>{ 1255.000,281.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1260.000,283.500 }</string>	
+								<string>{ 1259.000,282.500 }</string>	
+								<string>{ 1262.000,283.500 }</string>
+							</array>
+							<array>	
+								<string>{ 578.000,307.500 }</string>	
+								<string>{ 577.000,306.500 }</string>	
+								<string>{ 580.000,307.500 }</string>
+							</array>
+							<array>	
+								<string>{ 585.000,309.500 }</string>	
+								<string>{ 584.000,308.500 }</string>	
+								<string>{ 587.000,309.500 }</string>
+							</array>
+							<array>	
+								<string>{ 588.000,310.500 }</string>	
+								<string>{ 587.000,309.500 }</string>	
+								<string>{ 590.000,310.500 }</string>
+							</array>
+							<array>	
+								<string>{ 591.000,311.500 }</string>	
+								<string>{ 590.000,310.500 }</string>	
+								<string>{ 593.000,311.500 }</string>
+							</array>
+							<array>	
+								<string>{ 717.000,331.500 }</string>	
+								<string>{ 716.500,331.000 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 820.500,313.000 }</string>	
+								<string>{ 820.500,331.000 }</string>	
+								<string>{ 820.000,331.500 }</string>
+							</array>
+							<array>	
+								<string>{ 993.000,282.500 }</string>	
+								<string>{ 990.000,282.500 }</string>	
+								<string>{ 994.000,281.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1003.000,279.500 }</string>	
+								<string>{ 1000.000,279.500 }</string>	
+								<string>{ 1004.000,278.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1010.000,277.500 }</string>	
+								<string>{ 1007.000,277.500 }</string>	
+								<string>{ 1011.000,276.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1014.000,276.500 }</string>	
+								<string>{ 1011.000,276.500 }</string>	
+								<string>{ 1015.000,275.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1021.000,274.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>	
+								<string>{ 1022.000,273.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1025.000,273.500 }</string>	
+								<string>{ 1022.000,273.500 }</string>	
+								<string>{ 1026.000,272.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1029.000,272.500 }</string>	
+								<string>{ 1026.000,272.500 }</string>	
+								<string>{ 1030.000,271.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1033.000,271.500 }</string>	
+								<string>{ 1030.000,271.500 }</string>	
+								<string>{ 1034.000,270.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1042.000,269.500 }</string>	
+								<string>{ 1039.000,269.500 }</string>	
+								<string>{ 1043.000,268.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1201.000,266.500 }</string>	
+								<string>{ 1200.000,265.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1204.000,266.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1205.000,267.500 }</string>	
+								<string>{ 1204.000,266.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1208.000,267.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1209.000,268.500 }</string>	
+								<string>{ 1208.000,267.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1212.000,268.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1213.000,269.500 }</string>	
+								<string>{ 1212.000,268.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1216.000,269.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1220.000,271.500 }</string>	
+								<string>{ 1219.000,270.500 }</string>	
+								<string>{ 1223.000,271.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1236.000,276.500 }</string>	
+								<string>{ 1235.000,275.500 }</string>	
+								<string>{ 1239.000,276.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1249.000,280.500 }</string>	
+								<string>{ 1248.000,279.500 }</string>	
+								<string>{ 1252.000,280.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1256.000,282.500 }</string>	
+								<string>{ 1255.000,281.500 }</string>	
+								<string>{ 1259.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1263.000,284.500 }</string>	
+								<string>{ 1262.000,283.500 }</string>	
+								<string>{ 1266.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1267.000,285.500 }</string>	
+								<string>{ 1266.000,284.500 }</string>	
+								<string>{ 1270.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1271.000,286.500 }</string>	
+								<string>{ 1270.000,285.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1274.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1275.000,287.500 }</string>	
+								<string>{ 1274.000,286.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1278.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 562.000,303.500 }</string>	
+								<string>{ 561.000,302.500 }</string>	
+								<string>{ 565.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 566.000,304.500 }</string>	
+								<string>{ 565.000,303.500 }</string>	
+								<string>{ 569.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 570.000,305.500 }</string>	
+								<string>{ 569.000,304.500 }</string>	
+								<string>{ 573.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 574.000,306.500 }</string>	
+								<string>{ 573.000,305.500 }</string>	
+								<string>{ 577.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 581.000,308.500 }</string>	
+								<string>{ 580.000,307.500 }</string>	
+								<string>{ 584.000,308.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1038.000,270.500 }</string>	
+								<string>{ 1034.000,270.500 }</string>	
+								<string>{ 1039.000,269.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1047.000,268.500 }</string>	
+								<string>{ 1043.000,268.500 }</string>	
+								<string>{ 1048.000,267.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1052.000,267.500 }</string>	
+								<string>{ 1048.000,267.500 }</string>	
+								<string>{ 1053.000,266.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1057.000,266.500 }</string>	
+								<string>{ 1053.000,266.500 }</string>	
+								<string>{ 1058.000,265.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1068.000,264.500 }</string>	
+								<string>{ 1064.000,264.500 }</string>	
+								<string>{ 1069.000,263.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1196.000,265.500 }</string>	
+								<string>{ 1195.000,264.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1200.000,265.500 }</string>
+							</array>
+							<array>	
+								<string>{ 537.000,298.500 }</string>	
+								<string>{ 536.000,297.500 }</string>	
+								<string>{ 541.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 542.000,299.500 }</string>	
+								<string>{ 541.000,298.500 }</string>	
+								<string>{ 546.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 547.000,300.500 }</string>	
+								<string>{ 546.000,299.500 }</string>	
+								<string>{ 551.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 552.000,301.500 }</string>	
+								<string>{ 551.000,300.500 }</string>	
+								<string>{ 556.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 557.000,302.500 }</string>	
+								<string>{ 556.000,301.500 }</string>	
+								<string>{ 561.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1063.000,265.500 }</string>	
+								<string>{ 1058.000,265.500 }</string>	
+								<string>{ 1064.000,264.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1184.000,263.500 }</string>	
+								<string>{ 1183.000,262.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1189.000,263.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1190.000,264.500 }</string>	
+								<string>{ 1189.000,263.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1195.000,264.500 }</string>
+							</array>
+							<array>	
+								<string>{ 518.000,295.500 }</string>	
+								<string>{ 517.000,294.500 }</string>	
+								<string>{ 523.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 531.000,297.500 }</string>	
+								<string>{ 530.000,296.500 }</string>	
+								<string>{ 536.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1075.000,263.500 }</string>	
+								<string>{ 1069.000,263.500 }</string>	
+								<string>{ 1076.000,262.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1082.000,262.500 }</string>	
+								<string>{ 1076.000,262.500 }</string>	
+								<string>{ 1083.000,261.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1177.000,262.500 }</string>	
+								<string>{ 1176.000,261.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1183.000,262.500 }</string>
+							</array>
+							<array>	
+								<string>{ 524.000,296.500 }</string>	
+								<string>{ 523.000,295.500 }</string>	
+								<string>{ 530.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1169.000,261.500 }</string>	
+								<string>{ 1168.000,260.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1176.000,261.500 }</string>
+							</array>
+							<array>	
+								<string>{ 502.000,293.500 }</string>	
+								<string>{ 501.000,292.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>	
+								<string>{ 509.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 510.000,294.500 }</string>	
+								<string>{ 509.000,293.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>	
+								<string>{ 517.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1091.000,261.500 }</string>	
+								<string>{ 1083.000,261.500 }</string>	
+								<string>{ 1092.000,260.500 }</string>
+							</array>
+							<array>	
+								<string>{ 493.000,292.500 }</string>	
+								<string>{ 492.000,291.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1101.000,260.500 }</string>	
+								<string>{ 1092.000,260.500 }</string>	
+								<string>{ 1102.000,259.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1159.000,260.500 }</string>	
+								<string>{ 1158.000,259.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1168.000,260.500 }</string>
+							</array>
+							<array>	
+								<string>{ 482.000,291.500 }</string>	
+								<string>{ 481.000,290.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 470.000,290.500 }</string>	
+								<string>{ 469.000,289.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ -0.500,43.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ -0.500,43.000 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ -0.500,281.000 }</string>
+							</array>
+							<array>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1118.000,258.500 }</string>	
+								<string>{ -0.500,281.000 }</string>
+							</array>
+							<array>	
+								<string>{ 195.000,284.500 }</string>	
+								<string>{ 194.000,283.500 }</string>	
+								<string>{ 208.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 209.000,285.500 }</string>	
+								<string>{ 208.000,284.500 }</string>	
+								<string>{ 222.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,23.000 }</string>	
+								<string>{ 1279.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 29.000,281.500 }</string>	
+								<string>{ 0.000,281.500 }</string>	
+								<string>{ -0.500,281.000 }</string>	
+								<string>{ 30.000,280.500 }</string>
+							</array>
+							<array>	
+								<string>{ 180.000,283.500 }</string>	
+								<string>{ 179.000,282.500 }</string>	
+								<string>{ 194.000,283.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1117.000,259.500 }</string>	
+								<string>{ 1102.000,259.500 }</string>	
+								<string>{ 1118.000,258.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1143.000,259.500 }</string>	
+								<string>{ 1142.000,258.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1158.000,259.500 }</string>
+							</array>
+							<array>	
+								<string>{ 454.000,289.500 }</string>	
+								<string>{ 453.000,288.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 163.000,282.500 }</string>	
+								<string>{ 162.000,281.500 }</string>	
+								<string>{ 179.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 941.000,299.500 }</string>	
+								<string>{ 932.000,302.500 }</string>	
+								<string>{ 821.000,312.500 }</string>	
+								<string>{ 943.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 952.000,295.500 }</string>	
+								<string>{ 943.000,298.500 }</string>	
+								<string>{ 821.000,312.500 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 954.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 223.000,286.500 }</string>	
+								<string>{ 222.000,285.500 }</string>	
+								<string>{ 241.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 432.000,288.500 }</string>	
+								<string>{ 431.000,287.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 994.000,281.500 }</string>	
+								<string>{ 990.000,282.500 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 1000.000,279.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1004.000,278.500 }</string>	
+								<string>{ 1000.000,279.500 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 1007.000,277.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1015.000,275.500 }</string>	
+								<string>{ 1007.000,277.500 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 716.000,312.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1219.000,270.500 }</string>	
+								<string>{ 1216.000,269.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1223.000,271.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1235.000,275.500 }</string>	
+								<string>{ 1229.000,273.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1239.000,276.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1248.000,279.500 }</string>	
+								<string>{ 1242.000,277.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1252.000,280.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1255.000,281.500 }</string>	
+								<string>{ 1252.000,280.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1259.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1262.000,283.500 }</string>	
+								<string>{ 1259.000,282.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>	
+								<string>{ 1270.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 580.000,307.500 }</string>	
+								<string>{ 577.000,306.500 }</string>	
+								<string>{ 716.000,312.500 }</string>	
+								<string>{ 584.000,308.500 }</string>
+							</array>
+							<array>	
+								<string>{ 132.000,281.500 }</string>	
+								<string>{ 131.000,280.500 }</string>	
+								<string>{ 1034.000,270.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>
+							</array>
+							<array>	
+								<string>{ 928.500,310.000 }</string>	
+								<string>{ 821.000,312.500 }</string>	
+								<string>{ 928.500,306.000 }</string>
+							</array>
+							<array>	
+								<string>{ 928.500,306.000 }</string>	
+								<string>{ 821.000,312.500 }</string>	
+								<string>{ 932.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1039.000,269.500 }</string>	
+								<string>{ 1034.000,270.500 }</string>	
+								<string>{ 30.000,280.500 }</string>	
+								<string>{ 1043.000,268.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1058.000,265.500 }</string>	
+								<string>{ 30.000,280.500 }</string>	
+								<string>{ 1069.000,263.500 }</string>
+							</array>
+							<array>	
+								<string>{ 517.000,294.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>	
+								<string>{ 716.000,312.500 }</string>	
+								<string>{ 530.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1142.000,258.500 }</string>	
+								<string>{ 1118.000,258.500 }</string>	
+								<string>{ 1279.500,135.000 }</string>
+							</array>
+							<array>	
+								<string>{ 594.000,312.500 }</string>	
+								<string>{ 593.000,311.500 }</string>	
+								<string>{ 716.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 194.000,283.500 }</string>	
+								<string>{ 431.000,287.500 }</string>	
+								<string>{ 241.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 593.000,311.500 }</string>	
+								<string>{ 584.000,308.500 }</string>	
+								<string>{ 716.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 577.000,306.500 }</string>	
+								<string>{ 561.000,302.500 }</string>	
+								<string>{ 716.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 242.000,287.500 }</string>	
+								<string>{ 241.000,286.500 }</string>	
+								<string>{ 431.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 820.500,313.000 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 821.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 561.000,302.500 }</string>	
+								<string>{ 536.000,297.500 }</string>	
+								<string>{ 716.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 954.000,294.500 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 972.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 194.000,283.500 }</string>	
+								<string>{ 179.000,282.500 }</string>	
+								<string>{ 431.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 972.000,288.500 }</string>	
+								<string>{ 716.500,313.000 }</string>	
+								<string>{ 990.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 536.000,297.500 }</string>	
+								<string>{ 530.000,296.500 }</string>	
+								<string>{ 716.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 179.000,282.500 }</string>	
+								<string>{ 162.000,281.500 }</string>	
+								<string>{ 1018.000,274.500 }</string>	
+								<string>{ 431.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1043.000,268.500 }</string>	
+								<string>{ 30.000,280.500 }</string>	
+								<string>{ 1058.000,265.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1069.000,263.500 }</string>	
+								<string>{ 30.000,280.500 }</string>	
+								<string>{ 1083.000,261.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1083.000,261.500 }</string>	
+								<string>{ 30.000,280.500 }</string>	
+								<string>{ 1092.000,260.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1092.000,260.500 }</string>	
+								<string>{ 30.000,280.500 }</string>	
+								<string>{ 1102.000,259.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1102.000,259.500 }</string>	
+								<string>{ 30.000,280.500 }</string>	
+								<string>{ 1118.000,258.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_30</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 228.500,303.000 }</string>	
+								<string>{ 228.000,303.500 }</string>	
+								<string>{ 123.000,303.500 }</string>	
+								<string>{ 228.500,302.000 }</string>
+							</array>
+							<array>	
+								<string>{ 232.000,299.500 }</string>	
+								<string>{ 25.000,293.500 }</string>	
+								<string>{ 233.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 793.000,292.500 }</string>	
+								<string>{ 792.000,291.500 }</string>	
+								<string>{ 795.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 796.000,293.500 }</string>	
+								<string>{ 795.000,292.500 }</string>	
+								<string>{ 798.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 799.000,294.500 }</string>	
+								<string>{ 798.000,293.500 }</string>	
+								<string>{ 801.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 802.000,295.500 }</string>	
+								<string>{ 801.000,294.500 }</string>	
+								<string>{ 804.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 805.000,296.500 }</string>	
+								<string>{ 804.000,295.500 }</string>	
+								<string>{ 807.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 808.000,297.500 }</string>	
+								<string>{ 807.000,296.500 }</string>	
+								<string>{ 810.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 811.000,298.500 }</string>	
+								<string>{ 810.000,297.500 }</string>	
+								<string>{ 812.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 813.000,299.500 }</string>	
+								<string>{ 812.000,298.500 }</string>	
+								<string>{ 815.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 816.000,300.500 }</string>	
+								<string>{ 815.000,299.500 }</string>	
+								<string>{ 817.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 818.000,301.500 }</string>	
+								<string>{ 817.000,300.500 }</string>	
+								<string>{ 820.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 821.000,302.500 }</string>	
+								<string>{ 820.000,301.500 }</string>	
+								<string>{ 822.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 823.000,303.500 }</string>	
+								<string>{ 822.000,302.500 }</string>	
+								<string>{ 824.000,303.500 }</string>
+							</array>
+							<array>	
+								<string>{ 825.000,304.500 }</string>	
+								<string>{ 824.000,303.500 }</string>	
+								<string>{ 826.000,304.500 }</string>
+							</array>
+							<array>	
+								<string>{ 827.000,305.500 }</string>	
+								<string>{ 826.000,304.500 }</string>	
+								<string>{ 829.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 830.000,306.500 }</string>	
+								<string>{ 829.000,305.500 }</string>	
+								<string>{ 831.000,306.500 }</string>
+							</array>
+							<array>	
+								<string>{ 832.000,307.500 }</string>	
+								<string>{ 831.000,306.500 }</string>	
+								<string>{ 833.000,307.500 }</string>
+							</array>
+							<array>	
+								<string>{ 834.000,308.500 }</string>	
+								<string>{ 833.000,307.500 }</string>	
+								<string>{ 835.000,308.500 }</string>
+							</array>
+							<array>	
+								<string>{ 836.000,309.500 }</string>	
+								<string>{ 835.000,308.500 }</string>	
+								<string>{ 837.000,309.500 }</string>
+							</array>
+							<array>	
+								<string>{ 838.000,310.500 }</string>	
+								<string>{ 837.000,309.500 }</string>	
+								<string>{ 839.000,310.500 }</string>
+							</array>
+							<array>	
+								<string>{ 840.000,311.500 }</string>	
+								<string>{ 839.000,310.500 }</string>	
+								<string>{ 841.000,311.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1089.000,331.500 }</string>	
+								<string>{ 1088.500,331.000 }</string>	
+								<string>{ 1088.500,313.000 }</string>	
+								<string>{ 1252.500,313.000 }</string>	
+								<string>{ 1252.500,331.000 }</string>	
+								<string>{ 1252.000,331.500 }</string>
+							</array>
+							<array>	
+								<string>{ 3.000,289.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 6.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 7.000,290.500 }</string>	
+								<string>{ 6.000,289.500 }</string>	
+								<string>{ 10.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 776.000,288.500 }</string>	
+								<string>{ 775.000,287.500 }</string>	
+								<string>{ 779.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 785.000,290.500 }</string>	
+								<string>{ 784.000,289.500 }</string>	
+								<string>{ 788.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 789.000,291.500 }</string>	
+								<string>{ 788.000,290.500 }</string>	
+								<string>{ 792.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,288.500 }</string>	
+								<string>{ -0.500,288.000 }</string>	
+								<string>{ 715.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 11.000,291.500 }</string>	
+								<string>{ 10.000,290.500 }</string>	
+								<string>{ 15.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 16.000,292.500 }</string>	
+								<string>{ 15.000,291.500 }</string>	
+								<string>{ 20.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 21.000,293.500 }</string>	
+								<string>{ 20.000,292.500 }</string>	
+								<string>{ 25.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 26.000,294.500 }</string>	
+								<string>{ 25.000,293.500 }</string>	
+								<string>{ 30.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 780.000,289.500 }</string>	
+								<string>{ 779.000,288.500 }</string>	
+								<string>{ 784.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 31.000,295.500 }</string>	
+								<string>{ 30.000,294.500 }</string>	
+								<string>{ 36.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 37.000,296.500 }</string>	
+								<string>{ 36.000,295.500 }</string>	
+								<string>{ 42.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 764.000,286.500 }</string>	
+								<string>{ 763.000,285.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 769.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 770.000,287.500 }</string>	
+								<string>{ 769.000,286.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 775.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 43.000,297.500 }</string>	
+								<string>{ 42.000,296.500 }</string>	
+								<string>{ 49.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 757.000,285.500 }</string>	
+								<string>{ 756.000,284.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 763.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 50.000,298.500 }</string>	
+								<string>{ 49.000,297.500 }</string>	
+								<string>{ 57.000,298.500 }</string>
+							</array>
+							<array>	
+								<string>{ 58.000,299.500 }</string>	
+								<string>{ 57.000,298.500 }</string>	
+								<string>{ 66.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 67.000,300.500 }</string>	
+								<string>{ 66.000,299.500 }</string>	
+								<string>{ 76.000,300.500 }</string>
+							</array>
+							<array>	
+								<string>{ 747.000,284.500 }</string>	
+								<string>{ 746.000,283.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 756.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ -0.500,43.000 }</string>	
+								<string>{ -0.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ -0.500,43.000 }</string>	
+								<string>{ 74.000,0.500 }</string>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ -0.500,288.000 }</string>
+							</array>
+							<array>	
+								<string>{ 634.000,0.500 }</string>	
+								<string>{ 1279.000,0.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 715.000,282.500 }</string>	
+								<string>{ -0.500,288.000 }</string>
+							</array>
+							<array>	
+								<string>{ 246.000,298.500 }</string>	
+								<string>{ 25.000,293.500 }</string>	
+								<string>{ 247.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 77.000,301.500 }</string>	
+								<string>{ 76.000,300.500 }</string>	
+								<string>{ 91.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 261.000,297.500 }</string>	
+								<string>{ 25.000,293.500 }</string>	
+								<string>{ 262.000,296.500 }</string>
+							</array>
+							<array>	
+								<string>{ 277.000,296.500 }</string>	
+								<string>{ 25.000,293.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 278.000,295.500 }</string>
+							</array>
+							<array>	
+								<string>{ 731.000,283.500 }</string>	
+								<string>{ 730.000,282.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 746.000,283.500 }</string>
+							</array>
+							<array>	
+								<string>{ 812.000,298.500 }</string>	
+								<string>{ 810.000,297.500 }</string>	
+								<string>{ 1088.000,312.500 }</string>	
+								<string>{ 815.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 817.000,300.500 }</string>	
+								<string>{ 815.000,299.500 }</string>	
+								<string>{ 1088.000,312.500 }</string>	
+								<string>{ 820.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 826.000,304.500 }</string>	
+								<string>{ 820.000,301.500 }</string>	
+								<string>{ 1088.000,312.500 }</string>	
+								<string>{ 829.000,305.500 }</string>
+							</array>
+							<array>	
+								<string>{ 295.000,295.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 296.000,294.500 }</string>
+							</array>
+							<array>	
+								<string>{ 315.000,294.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 316.000,293.500 }</string>
+							</array>
+							<array>	
+								<string>{ 339.000,293.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 340.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 366.000,292.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 367.000,291.500 }</string>
+							</array>
+							<array>	
+								<string>{ 657.000,285.500 }</string>	
+								<string>{ 630.000,285.500 }</string>	
+								<string>{ 658.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 714.000,283.500 }</string>	
+								<string>{ 687.000,283.500 }</string>	
+								<string>{ 715.000,282.500 }</string>
+							</array>
+							<array>	
+								<string>{ 686.000,284.500 }</string>	
+								<string>{ 658.000,284.500 }</string>	
+								<string>{ 687.000,283.500 }</string>
+							</array>
+							<array>	
+								<string>{ 92.000,302.500 }</string>	
+								<string>{ 91.000,301.500 }</string>	
+								<string>{ 122.000,302.500 }</string>
+							</array>
+							<array>	
+								<string>{ 400.000,291.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 401.000,290.500 }</string>
+							</array>
+							<array>	
+								<string>{ 629.000,286.500 }</string>	
+								<string>{ 595.000,286.500 }</string>	
+								<string>{ 630.000,285.500 }</string>
+							</array>
+							<array>	
+								<string>{ 443.000,290.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 444.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 594.000,287.500 }</string>	
+								<string>{ 550.000,287.500 }</string>	
+								<string>{ 595.000,286.500 }</string>
+							</array>
+							<array>	
+								<string>{ 10.000,290.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 20.000,292.500 }</string>
+							</array>
+							<array>	
+								<string>{ 779.000,288.500 }</string>	
+								<string>{ 775.000,287.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 1088.000,312.500 }</string>	
+								<string>{ 784.000,289.500 }</string>
+							</array>
+							<array>	
+								<string>{ 495.000,289.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 496.000,288.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1279.000,312.500 }</string>	
+								<string>{ 1253.000,312.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 1279.500,312.000 }</string>
+							</array>
+							<array>	
+								<string>{ 549.000,288.500 }</string>	
+								<string>{ 496.000,288.500 }</string>	
+								<string>{ 550.000,287.500 }</string>
+							</array>
+							<array>	
+								<string>{ 25.000,293.500 }</string>	
+								<string>{ 231.000,299.500 }</string>	
+								<string>{ 122.000,302.500 }</string>	
+								<string>{ 66.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 228.500,302.000 }</string>	
+								<string>{ 123.000,303.500 }</string>	
+								<string>{ 122.000,302.500 }</string>	
+								<string>{ 231.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 66.000,299.500 }</string>	
+								<string>{ 122.000,302.500 }</string>	
+								<string>{ 91.000,301.500 }</string>
+							</array>
+							<array>	
+								<string>{ 42.000,296.500 }</string>	
+								<string>{ 36.000,295.500 }</string>	
+								<string>{ 49.000,297.500 }</string>
+							</array>
+							<array>	
+								<string>{ 842.000,312.500 }</string>	
+								<string>{ 841.000,311.500 }</string>	
+								<string>{ 1088.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 841.000,311.500 }</string>	
+								<string>{ 829.000,305.500 }</string>	
+								<string>{ 1088.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 496.000,288.500 }</string>	
+								<string>{ 2.000,288.500 }</string>	
+								<string>{ 658.000,284.500 }</string>
+							</array>
+							<array>	
+								<string>{ 1252.500,313.000 }</string>	
+								<string>{ 1088.500,313.000 }</string>	
+								<string>{ 1088.000,312.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>	
+								<string>{ 1253.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 810.000,297.500 }</string>	
+								<string>{ 792.000,291.500 }</string>	
+								<string>{ 1088.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 792.000,291.500 }</string>	
+								<string>{ 784.000,289.500 }</string>	
+								<string>{ 1088.000,312.500 }</string>
+							</array>
+							<array>	
+								<string>{ 730.000,282.500 }</string>	
+								<string>{ 715.000,282.500 }</string>	
+								<string>{ 1279.500,35.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_22</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 1279.000,249.500 }</string>	
+								<string>{ 746.000,251.500 }</string>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 746.000,251.500 }</string>	
+								<string>{ 497.000,256.500 }</string>	
+								<string>{ 0.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 497.000,256.500 }</string>	
+								<string>{ 370.000,261.500 }</string>	
+								<string>{ 0.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 370.000,261.500 }</string>	
+								<string>{ 232.000,269.500 }</string>	
+								<string>{ 0.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ 232.000,269.500 }</string>	
+								<string>{ 2.000,289.500 }</string>	
+								<string>{ 1.000,289.500 }</string>	
+								<string>{ 0.000,0.500 }</string>
+							</array>
+							<array>	
+								<string>{ -0.500,290.000 }</string>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 1.000,289.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+			<key>stage1_21</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.0000,0.0000 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>-8</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 1279.000,290.500 }</string>	
+								<string>{ 1168.000,298.500 }</string>	
+								<string>{ 1094.000,299.500 }</string>	
+								<string>{ 980.000,275.500 }</string>	
+								<string>{ -0.500,2.000 }</string>	
+								<string>{ 0.000,0.500 }</string>	
+								<string>{ 1279.500,1.000 }</string>
+							</array>
+							<array>	
+								<string>{ 1071.000,298.500 }</string>	
+								<string>{ 1032.000,286.500 }</string>	
+								<string>{ 1094.000,299.500 }</string>	
+								<string>{ 1093.000,299.500 }</string>
+							</array>
+							<array>	
+								<string>{ 319.000,245.500 }</string>	
+								<string>{ 850.000,262.500 }</string>	
+								<string>{ 515.000,260.500 }</string>
+							</array>
+							<array>	
+								<string>{ 319.000,245.500 }</string>	
+								<string>{ 207.000,237.500 }</string>	
+								<string>{ -0.500,2.000 }</string>	
+								<string>{ 850.000,262.500 }</string>
+							</array>
+							<array>	
+								<string>{ -0.500,229.000 }</string>	
+								<string>{ -0.500,2.000 }</string>	
+								<string>{ 207.000,237.500 }</string>	
+								<string>{ 1.000,229.500 }</string>
+							</array>
+							<array>	
+								<string>{ 850.000,262.500 }</string>	
+								<string>{ -0.500,2.000 }</string>	
+								<string>{ 888.000,264.500 }</string>
+							</array>
+							<array>	
+								<string>{ 888.000,264.500 }</string>	
+								<string>{ -0.500,2.000 }</string>	
+								<string>{ 940.000,269.500 }</string>
+							</array>
+							<array>	
+								<string>{ 940.000,269.500 }</string>	
+								<string>{ -0.500,2.000 }</string>	
+								<string>{ 980.000,275.500 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>
+
